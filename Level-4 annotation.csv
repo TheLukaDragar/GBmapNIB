@@ -1,0 +1,2693 @@
+List,Name,ID,Feature Type
+AC-like,GFAP,ENSG00000131095,Gene Expression
+AC-like,FABP7,ENSG00000164434,Gene Expression
+AC-like,MT3,ENSG00000087250,Gene Expression
+AC-like,EGFR,ENSG00000146648,Gene Expression
+AC-like,PTN,ENSG00000105894,Gene Expression
+AC-like,CLU,ENSG00000120885,Gene Expression
+AC-like,CST3,ENSG00000101439,Gene Expression
+AC-like,CHCHD2,ENSG00000106153,Gene Expression
+AC-like,MIR9-1HG,ENSG00000125462,Gene Expression
+AC-like,CRYAB,ENSG00000109846,Gene Expression
+AC-like,DBI,ENSG00000155368,Gene Expression
+AC-like,BCAN,ENSG00000132692,Gene Expression
+AC-like,PTPRZ1,ENSG00000106278,Gene Expression
+AC-like,ID3,ENSG00000117318,Gene Expression
+AC-like,SEC61G,ENSG00000132432,Gene Expression
+AC-like,HOPX,ENSG00000171476,Gene Expression
+AC-like,CKB,ENSG00000166165,Gene Expression
+AC-like,SPARCL1,ENSG00000152583,Gene Expression
+AC-like,PMP2,ENSG00000147588,Gene Expression
+AC-like,CNN3,ENSG00000117519,Gene Expression
+AC-like,NIPSNAP2,ENSG00000146729,Gene Expression
+AC-like,AQP4,ENSG00000171885,Gene Expression
+AC-like,GPM6B,ENSG00000046653,Gene Expression
+AC-like,NOVA1,ENSG00000139910,Gene Expression
+AC-like,TTYH1,ENSG00000167614,Gene Expression
+AC-like,IGFBP2,ENSG00000115457,Gene Expression
+AC-like,S100B,ENSG00000160307,Gene Expression
+AC-like,RAMP1,ENSG00000132329,Gene Expression
+AC-like,VIM,ENSG00000026025,Gene Expression
+AC-like,TUBB2B,ENSG00000137285,Gene Expression
+AC-like,CCT6A,ENSG00000146731,Gene Expression
+AC-like,METRN,ENSG00000103260,Gene Expression
+AC-like,ID1,ENSG00000125968,Gene Expression
+AC-like,GAP43,ENSG00000172020,Gene Expression
+AC-like,MT1X,ENSG00000187193,Gene Expression
+AC-like,CALD1,ENSG00000122786,Gene Expression
+AC-like,NMB,ENSG00000197696,Gene Expression
+AC-like,PDGFRA,ENSG00000134853,Gene Expression
+AC-like,ID4,ENSG00000172201,Gene Expression
+AC-like,S100A16,ENSG00000188643,Gene Expression
+AC-like,PCSK1N,ENSG00000102109,Gene Expression
+AC-like,AGT,ENSG00000135744,Gene Expression
+AC-like,GATM,ENSG00000171766,Gene Expression
+AC-like,CCN1,ENSG00000142871,Gene Expression
+AC-like,FXYD6,ENSG00000137726,Gene Expression
+AC-like,SOX4,ENSG00000124766,Gene Expression
+AC-like,SCRG1,ENSG00000164106,Gene Expression
+AC-like,TSC22D4,ENSG00000166925,Gene Expression
+AC-like,BAALC,ENSG00000164929,Gene Expression
+AC-like,GPM6A,ENSG00000150625,Gene Expression
+AC-like Prolif,CHCHD2,ENSG00000106153,Gene Expression
+AC-like Prolif,SEC61G,ENSG00000132432,Gene Expression
+AC-like Prolif,UBE2S,ENSG00000108106,Gene Expression
+AC-like Prolif,H4C3,ENSG00000197061,Gene Expression
+AC-like Prolif,TUBA1B,ENSG00000123416,Gene Expression
+AC-like Prolif,UBE2C,ENSG00000175063,Gene Expression
+AC-like Prolif,CENPF,ENSG00000117724,Gene Expression
+AC-like Prolif,TOP2A,ENSG00000131747,Gene Expression
+AC-like Prolif,EGFR,ENSG00000146648,Gene Expression
+AC-like Prolif,HMGB2,ENSG00000164104,Gene Expression
+AC-like Prolif,HMGN2,ENSG00000198830,Gene Expression
+AC-like Prolif,PTTG1,ENSG00000164611,Gene Expression
+AC-like Prolif,PTN,ENSG00000105894,Gene Expression
+AC-like Prolif,H2AZ1,ENSG00000164032,Gene Expression
+AC-like Prolif,CCT6A,ENSG00000146731,Gene Expression
+AC-like Prolif,NIPSNAP2,ENSG00000146729,Gene Expression
+AC-like Prolif,DBI,ENSG00000155368,Gene Expression
+AC-like Prolif,CKB,ENSG00000166165,Gene Expression
+AC-like Prolif,NUSAP1,ENSG00000137804,Gene Expression
+AC-like Prolif,BIRC5,ENSG00000089685,Gene Expression
+AC-like Prolif,MT3,ENSG00000087250,Gene Expression
+AC-like Prolif,STMN1,ENSG00000117632,Gene Expression
+AC-like Prolif,CCNB1,ENSG00000134057,Gene Expression
+AC-like Prolif,VOPP1,ENSG00000154978,Gene Expression
+AC-like Prolif,FABP7,ENSG00000164434,Gene Expression
+AC-like Prolif,TUBB,ENSG00000196230,Gene Expression
+AC-like Prolif,HOPX,ENSG00000171476,Gene Expression
+AC-like Prolif,PBK,ENSG00000168078,Gene Expression
+AC-like Prolif,PCLAF,ENSG00000166803,Gene Expression
+AC-like Prolif,TYMS,ENSG00000176890,Gene Expression
+AC-like Prolif,TUBB4B,ENSG00000188229,Gene Expression
+AC-like Prolif,DCN,ENSG00000011465,Gene Expression
+AC-like Prolif,ARL6IP1,ENSG00000170540,Gene Expression
+AC-like Prolif,POSTN,ENSG00000133110,Gene Expression
+AC-like Prolif,TPX2,ENSG00000088325,Gene Expression
+AC-like Prolif,SUMF2,ENSG00000129103,Gene Expression
+AC-like Prolif,MDK,ENSG00000110492,Gene Expression
+AC-like Prolif,H2AX,ENSG00000188486,Gene Expression
+AC-like Prolif,PCNA,ENSG00000132646,Gene Expression
+AC-like Prolif,PIMREG,ENSG00000129195,Gene Expression
+AC-like Prolif,CCDC34,ENSG00000109881,Gene Expression
+AC-like Prolif,KPNA2,ENSG00000182481,Gene Expression
+AC-like Prolif,CDKN2C,ENSG00000123080,Gene Expression
+AC-like Prolif,SMC4,ENSG00000113810,Gene Expression
+AC-like Prolif,CKS2,ENSG00000123975,Gene Expression
+AC-like Prolif,CDKN3,ENSG00000100526,Gene Expression
+AC-like Prolif,CDK1,ENSG00000170312,Gene Expression
+AC-like Prolif,IGFBP2,ENSG00000115457,Gene Expression
+AC-like Prolif,GAS1,ENSG00000180447,Gene Expression
+AC-like Prolif,UBE2T,ENSG00000077152,Gene Expression
+MES-like hypoxia/MHC,IGFBP5,ENSG00000115461,Gene Expression
+MES-like hypoxia/MHC,SEC61G,ENSG00000132432,Gene Expression
+MES-like hypoxia/MHC,MT1X,ENSG00000187193,Gene Expression
+MES-like hypoxia/MHC,CHI3L1,ENSG00000133048,Gene Expression
+MES-like hypoxia/MHC,MT2A,ENSG00000125148,Gene Expression
+MES-like hypoxia/MHC,IGFBP2,ENSG00000115457,Gene Expression
+MES-like hypoxia/MHC,LGALS3,ENSG00000131981,Gene Expression
+MES-like hypoxia/MHC,VEGFA,ENSG00000112715,Gene Expression
+MES-like hypoxia/MHC,AKAP12,ENSG00000131016,Gene Expression
+MES-like hypoxia/MHC,HILPDA,ENSG00000135245,Gene Expression
+MES-like hypoxia/MHC,VOPP1,ENSG00000154978,Gene Expression
+MES-like hypoxia/MHC,IGFBP3,ENSG00000146674,Gene Expression
+MES-like hypoxia/MHC,NRN1,ENSG00000124785,Gene Expression
+MES-like hypoxia/MHC,GAPDH,ENSG00000111640,Gene Expression
+MES-like hypoxia/MHC,CPE,ENSG00000109472,Gene Expression
+MES-like hypoxia/MHC,CLU,ENSG00000120885,Gene Expression
+MES-like hypoxia/MHC,ADM,ENSG00000148926,Gene Expression
+MES-like hypoxia/MHC,NDRG1,ENSG00000104419,Gene Expression
+MES-like hypoxia/MHC,MT3,ENSG00000087250,Gene Expression
+MES-like hypoxia/MHC,ANGPTL4,ENSG00000167772,Gene Expression
+MES-like hypoxia/MHC,SPARCL1,ENSG00000152583,Gene Expression
+MES-like hypoxia/MHC,VIM,ENSG00000026025,Gene Expression
+MES-like hypoxia/MHC,MT1E,ENSG00000169715,Gene Expression
+MES-like hypoxia/MHC,HSPA5,ENSG00000044574,Gene Expression
+MES-like hypoxia/MHC,CAV1,ENSG00000105974,Gene Expression
+MES-like hypoxia/MHC,CCN1,ENSG00000142871,Gene Expression
+MES-like hypoxia/MHC,DNAJB9,ENSG00000128590,Gene Expression
+MES-like hypoxia/MHC,TIMP1,ENSG00000102265,Gene Expression
+MES-like hypoxia/MHC,ENO2,ENSG00000111674,Gene Expression
+MES-like hypoxia/MHC,GADD45A,ENSG00000116717,Gene Expression
+MES-like hypoxia/MHC,CNN3,ENSG00000117519,Gene Expression
+MES-like hypoxia/MHC,GAP43,ENSG00000172020,Gene Expression
+MES-like hypoxia/MHC,NNMT,ENSG00000166741,Gene Expression
+MES-like hypoxia/MHC,CALD1,ENSG00000122786,Gene Expression
+MES-like hypoxia/MHC,CRYAB,ENSG00000109846,Gene Expression
+MES-like hypoxia/MHC,CD9,ENSG00000010278,Gene Expression
+MES-like hypoxia/MHC,TMEM158,ENSG00000249992,Gene Expression
+MES-like hypoxia/MHC,DEPP1,ENSG00000165507,Gene Expression
+MES-like hypoxia/MHC,CA12,ENSG00000074410,Gene Expression
+MES-like hypoxia/MHC,BNIP3,ENSG00000176171,Gene Expression
+MES-like hypoxia/MHC,MDK,ENSG00000110492,Gene Expression
+MES-like hypoxia/MHC,SCG2,ENSG00000171951,Gene Expression
+MES-like hypoxia/MHC,TCIM,ENSG00000176907,Gene Expression
+MES-like hypoxia/MHC,CSRP2,ENSG00000175183,Gene Expression
+MES-like hypoxia/MHC,DDIT3,ENSG00000175197,Gene Expression
+MES-like hypoxia/MHC,MAP1B,ENSG00000131711,Gene Expression
+MES-like hypoxia/MHC,PTN,ENSG00000105894,Gene Expression
+MES-like hypoxia/MHC,PLOD2,ENSG00000152952,Gene Expression
+MES-like hypoxia/MHC,CEBPD,ENSG00000221869,Gene Expression
+MES-like hypoxia/MHC,LGALS1,ENSG00000100097,Gene Expression
+MES-like hypoxia independent,CHI3L1,ENSG00000133048,Gene Expression
+MES-like hypoxia independent,LTF,ENSG00000012223,Gene Expression
+MES-like hypoxia independent,CHI3L2,ENSG00000064886,Gene Expression
+MES-like hypoxia independent,CLU,ENSG00000120885,Gene Expression
+MES-like hypoxia independent,MT2A,ENSG00000125148,Gene Expression
+MES-like hypoxia independent,SLPI,ENSG00000124107,Gene Expression
+MES-like hypoxia independent,SOD2,ENSG00000112096,Gene Expression
+MES-like hypoxia independent,SPARCL1,ENSG00000152583,Gene Expression
+MES-like hypoxia independent,GFAP,ENSG00000131095,Gene Expression
+MES-like hypoxia independent,MT1X,ENSG00000187193,Gene Expression
+MES-like hypoxia independent,S100A6,ENSG00000197956,Gene Expression
+MES-like hypoxia independent,IGFBP5,ENSG00000115461,Gene Expression
+MES-like hypoxia independent,MT1E,ENSG00000169715,Gene Expression
+MES-like hypoxia independent,TIMP1,ENSG00000102265,Gene Expression
+MES-like hypoxia independent,TCIM,ENSG00000176907,Gene Expression
+MES-like hypoxia independent,IFITM3,ENSG00000142089,Gene Expression
+MES-like hypoxia independent,MT3,ENSG00000087250,Gene Expression
+MES-like hypoxia independent,ID3,ENSG00000117318,Gene Expression
+MES-like hypoxia independent,CRYAB,ENSG00000109846,Gene Expression
+MES-like hypoxia independent,TNC,ENSG00000041982,Gene Expression
+MES-like hypoxia independent,GAP43,ENSG00000172020,Gene Expression
+MES-like hypoxia independent,MAP1B,ENSG00000131711,Gene Expression
+MES-like hypoxia independent,FN1,ENSG00000115414,Gene Expression
+MES-like hypoxia independent,FABP5,ENSG00000164687,Gene Expression
+MES-like hypoxia independent,MGP,ENSG00000111341,Gene Expression
+MES-like hypoxia independent,HBB,ENSG00000244734,Gene Expression
+MES-like hypoxia independent,AQP1,ENSG00000240583,Gene Expression
+MES-like hypoxia independent,SEC61G,ENSG00000132432,Gene Expression
+MES-like hypoxia independent,HILPDA,ENSG00000135245,Gene Expression
+MES-like hypoxia independent,NAMPT,ENSG00000105835,Gene Expression
+MES-like hypoxia independent,MIR9-1HG,ENSG00000125462,Gene Expression
+MES-like hypoxia independent,MGST1,ENSG00000008394,Gene Expression
+MES-like hypoxia independent,S100A10,ENSG00000197747,Gene Expression
+MES-like hypoxia independent,CSRP2,ENSG00000175183,Gene Expression
+MES-like hypoxia independent,NNMT,ENSG00000166741,Gene Expression
+MES-like hypoxia independent,IGFBP7,ENSG00000163453,Gene Expression
+MES-like hypoxia independent,EFEMP1,ENSG00000115380,Gene Expression
+MES-like hypoxia independent,CNN3,ENSG00000117519,Gene Expression
+MES-like hypoxia independent,SPARC,ENSG00000113140,Gene Expression
+MES-like hypoxia independent,MT1M,ENSG00000205364,Gene Expression
+MES-like hypoxia independent,C1R,ENSG00000159403,Gene Expression
+MES-like hypoxia independent,CAV1,ENSG00000105974,Gene Expression
+MES-like hypoxia independent,VEGFA,ENSG00000112715,Gene Expression
+MES-like hypoxia independent,COL6A1,ENSG00000142156,Gene Expression
+MES-like hypoxia independent,AKAP12,ENSG00000131016,Gene Expression
+MES-like hypoxia independent,TAGLN,ENSG00000149591,Gene Expression
+MES-like hypoxia independent,MEG3,ENSG00000214548,Gene Expression
+MES-like hypoxia independent,CALD1,ENSG00000122786,Gene Expression
+MES-like hypoxia independent,OCIAD2,ENSG00000145247,Gene Expression
+MES-like hypoxia independent,LGALS3,ENSG00000131981,Gene Expression
+OPC-like,PTPRZ1,ENSG00000106278,Gene Expression
+OPC-like,BCAN,ENSG00000132692,Gene Expression
+OPC-like,MTRNR2L8,ENSG00000255823,Gene Expression
+OPC-like,TUBA1A,ENSG00000167552,Gene Expression
+OPC-like,CKB,ENSG00000166165,Gene Expression
+OPC-like,GPM6A,ENSG00000150625,Gene Expression
+OPC-like,MIR9-1HG,ENSG00000125462,Gene Expression
+OPC-like,PTN,ENSG00000105894,Gene Expression
+OPC-like,SCRG1,ENSG00000164106,Gene Expression
+OPC-like,TUBB2B,ENSG00000137285,Gene Expression
+OPC-like,PMP2,ENSG00000147588,Gene Expression
+OPC-like,MARCKSL1,ENSG00000175130,Gene Expression
+OPC-like,PDGFRA,ENSG00000134853,Gene Expression
+OPC-like,FXYD6,ENSG00000137726,Gene Expression
+OPC-like,MAP2,ENSG00000078018,Gene Expression
+OPC-like,OLIG1,ENSG00000184221,Gene Expression
+OPC-like,NOVA1,ENSG00000139910,Gene Expression
+OPC-like,GAP43,ENSG00000172020,Gene Expression
+OPC-like,PFN2,ENSG00000070087,Gene Expression
+OPC-like,H4C3,ENSG00000197061,Gene Expression
+OPC-like,S100B,ENSG00000160307,Gene Expression
+OPC-like,HES6,ENSG00000144485,Gene Expression
+OPC-like,SOX4,ENSG00000124766,Gene Expression
+OPC-like,DLL3,ENSG00000090932,Gene Expression
+OPC-like,METRN,ENSG00000103260,Gene Expression
+OPC-like,ETV1,ENSG00000006468,Gene Expression
+OPC-like,GPM6B,ENSG00000046653,Gene Expression
+OPC-like,DBI,ENSG00000155368,Gene Expression
+OPC-like,CENPF,ENSG00000117724,Gene Expression
+OPC-like,SCD5,ENSG00000145284,Gene Expression
+OPC-like,BEX1,ENSG00000133169,Gene Expression
+OPC-like,IGFBP2,ENSG00000115457,Gene Expression
+OPC-like,TUBA1B,ENSG00000123416,Gene Expression
+OPC-like,MDK,ENSG00000110492,Gene Expression
+OPC-like,TSC22D4,ENSG00000166925,Gene Expression
+OPC-like,NNAT,ENSG00000053438,Gene Expression
+OPC-like,SEC61G,ENSG00000132432,Gene Expression
+OPC-like,MAP1B,ENSG00000131711,Gene Expression
+OPC-like,NKAIN4,ENSG00000101198,Gene Expression
+OPC-like,TOP2A,ENSG00000131747,Gene Expression
+OPC-like,CDK4,ENSG00000135446,Gene Expression
+OPC-like,MEST,ENSG00000106484,Gene Expression
+OPC-like,STMN1,ENSG00000117632,Gene Expression
+OPC-like,OS9,ENSG00000135506,Gene Expression
+OPC-like,CCND2,ENSG00000118971,Gene Expression
+OPC-like,GFAP,ENSG00000131095,Gene Expression
+OPC-like,NUP107,ENSG00000111581,Gene Expression
+OPC-like,RBP1,ENSG00000114115,Gene Expression
+OPC-like,NFIB,ENSG00000147862,Gene Expression
+OPC-like,CLU,ENSG00000120885,Gene Expression
+OPC-like Prolif,SEC61G,ENSG00000132432,Gene Expression
+OPC-like Prolif,TUBA1B,ENSG00000123416,Gene Expression
+OPC-like Prolif,TUBB,ENSG00000196230,Gene Expression
+OPC-like Prolif,HMGN2,ENSG00000198830,Gene Expression
+OPC-like Prolif,TUBA1A,ENSG00000167552,Gene Expression
+OPC-like Prolif,H4C3,ENSG00000197061,Gene Expression
+OPC-like Prolif,CDK4,ENSG00000135446,Gene Expression
+OPC-like Prolif,BCAN,ENSG00000132692,Gene Expression
+OPC-like Prolif,CKB,ENSG00000166165,Gene Expression
+OPC-like Prolif,TOP2A,ENSG00000131747,Gene Expression
+OPC-like Prolif,HMGB2,ENSG00000164104,Gene Expression
+OPC-like Prolif,TUBB2B,ENSG00000137285,Gene Expression
+OPC-like Prolif,NOVA1,ENSG00000139910,Gene Expression
+OPC-like Prolif,IGFBP2,ENSG00000115457,Gene Expression
+OPC-like Prolif,STMN1,ENSG00000117632,Gene Expression
+OPC-like Prolif,OS9,ENSG00000135506,Gene Expression
+OPC-like Prolif,MARCKSL1,ENSG00000175130,Gene Expression
+OPC-like Prolif,H2AZ1,ENSG00000164032,Gene Expression
+OPC-like Prolif,PTTG1,ENSG00000164611,Gene Expression
+OPC-like Prolif,SCRG1,ENSG00000164106,Gene Expression
+OPC-like Prolif,PTPRZ1,ENSG00000106278,Gene Expression
+OPC-like Prolif,ARL6IP1,ENSG00000170540,Gene Expression
+OPC-like Prolif,SOX4,ENSG00000124766,Gene Expression
+OPC-like Prolif,EGFR,ENSG00000146648,Gene Expression
+OPC-like Prolif,PTN,ENSG00000105894,Gene Expression
+OPC-like Prolif,UBE2C,ENSG00000175063,Gene Expression
+OPC-like Prolif,GPM6A,ENSG00000150625,Gene Expression
+OPC-like Prolif,HES6,ENSG00000144485,Gene Expression
+OPC-like Prolif,DLL3,ENSG00000090932,Gene Expression
+OPC-like Prolif,BIRC5,ENSG00000089685,Gene Expression
+OPC-like Prolif,NUSAP1,ENSG00000137804,Gene Expression
+OPC-like Prolif,TYMS,ENSG00000176890,Gene Expression
+OPC-like Prolif,BEX1,ENSG00000133169,Gene Expression
+OPC-like Prolif,MDK,ENSG00000110492,Gene Expression
+OPC-like Prolif,MAP2,ENSG00000078018,Gene Expression
+OPC-like Prolif,MIR9-1HG,ENSG00000125462,Gene Expression
+OPC-like Prolif,CENPF,ENSG00000117724,Gene Expression
+OPC-like Prolif,PBK,ENSG00000168078,Gene Expression
+OPC-like Prolif,PCLAF,ENSG00000166803,Gene Expression
+OPC-like Prolif,ETV1,ENSG00000006468,Gene Expression
+OPC-like Prolif,FXYD6,ENSG00000137726,Gene Expression
+OPC-like Prolif,PMP2,ENSG00000147588,Gene Expression
+OPC-like Prolif,UBE2S,ENSG00000108106,Gene Expression
+OPC-like Prolif,DBI,ENSG00000155368,Gene Expression
+OPC-like Prolif,OLIG1,ENSG00000184221,Gene Expression
+OPC-like Prolif,MLLT11,ENSG00000213190,Gene Expression
+OPC-like Prolif,PCNA,ENSG00000132646,Gene Expression
+OPC-like Prolif,CCND2,ENSG00000118971,Gene Expression
+OPC-like Prolif,MDM4,ENSG00000198625,Gene Expression
+OPC-like Prolif,MCM7,ENSG00000166508,Gene Expression
+NPC-like OPC,CDK4,ENSG00000135446,Gene Expression
+NPC-like OPC,RP11-620J15.3,ENSG00000257698,Gene Expression
+NPC-like OPC,BCAN,ENSG00000132692,Gene Expression
+NPC-like OPC,MARCHF9,ENSG00000139266,Gene Expression
+NPC-like OPC,HES6,ENSG00000144485,Gene Expression
+NPC-like OPC,OLIG1,ENSG00000184221,Gene Expression
+NPC-like OPC,IGFBP2,ENSG00000115457,Gene Expression
+NPC-like OPC,SCRG1,ENSG00000164106,Gene Expression
+NPC-like OPC,TUBB2B,ENSG00000137285,Gene Expression
+NPC-like OPC,TSFM,ENSG00000123297,Gene Expression
+NPC-like OPC,RBP1,ENSG00000114115,Gene Expression
+NPC-like OPC,MARCKSL1,ENSG00000175130,Gene Expression
+NPC-like OPC,DLL3,ENSG00000090932,Gene Expression
+NPC-like OPC,OLIG2,ENSG00000205927,Gene Expression
+NPC-like OPC,TUBA1A,ENSG00000167552,Gene Expression
+NPC-like OPC,TSPAN31,ENSG00000135452,Gene Expression
+NPC-like OPC,PCSK1N,ENSG00000102109,Gene Expression
+NPC-like OPC,FXYD6,ENSG00000137726,Gene Expression
+NPC-like OPC,HSPB1,ENSG00000106211,Gene Expression
+NPC-like OPC,PTN,ENSG00000105894,Gene Expression
+NPC-like OPC,CKB,ENSG00000166165,Gene Expression
+NPC-like OPC,SCG3,ENSG00000104112,Gene Expression
+NPC-like OPC,SOX4,ENSG00000124766,Gene Expression
+NPC-like OPC,PFN2,ENSG00000070087,Gene Expression
+NPC-like OPC,UCHL1,ENSG00000154277,Gene Expression
+NPC-like OPC,MTRNR2L8,ENSG00000255823,Gene Expression
+NPC-like OPC,NOVA1,ENSG00000139910,Gene Expression
+NPC-like OPC,DBI,ENSG00000155368,Gene Expression
+NPC-like OPC,PHLDA1,ENSG00000139289,Gene Expression
+NPC-like OPC,BAALC,ENSG00000164929,Gene Expression
+NPC-like OPC,SERPINE2,ENSG00000135919,Gene Expression
+NPC-like OPC,MT-CO3,ENSG00000198938,Gene Expression
+NPC-like OPC,CCND1,ENSG00000110092,Gene Expression
+NPC-like OPC,TSC22D1,ENSG00000102804,Gene Expression
+NPC-like OPC,CDKN2A,ENSG00000147889,Gene Expression
+NPC-like OPC,GPM6A,ENSG00000150625,Gene Expression
+NPC-like OPC,SCD5,ENSG00000145284,Gene Expression
+NPC-like OPC,BEX1,ENSG00000133169,Gene Expression
+NPC-like OPC,DSEL,ENSG00000171451,Gene Expression
+NPC-like OPC,APOD,ENSG00000189058,Gene Expression
+NPC-like OPC,METTL1,ENSG00000037897,Gene Expression
+NPC-like OPC,HSPD1,ENSG00000144381,Gene Expression
+NPC-like OPC,PTPRZ1,ENSG00000106278,Gene Expression
+NPC-like OPC,MAP2,ENSG00000078018,Gene Expression
+NPC-like OPC,HSPH1,ENSG00000120694,Gene Expression
+NPC-like OPC,NTRK2,ENSG00000148053,Gene Expression
+NPC-like OPC,FABP7,ENSG00000164434,Gene Expression
+NPC-like OPC,LAPTM4B,ENSG00000104341,Gene Expression
+NPC-like OPC,MT-CYB,ENSG00000198727,Gene Expression
+NPC-like OPC,METRN,ENSG00000103260,Gene Expression
+NPC-like neural,STMN2,ENSG00000104435,Gene Expression
+NPC-like neural,SOX4,ENSG00000124766,Gene Expression
+NPC-like neural,TUBA1A,ENSG00000167552,Gene Expression
+NPC-like neural,DLX6-AS1,ENSG00000231764,Gene Expression
+NPC-like neural,NNAT,ENSG00000053438,Gene Expression
+NPC-like neural,STMN1,ENSG00000117632,Gene Expression
+NPC-like neural,CDK4,ENSG00000135446,Gene Expression
+NPC-like neural,TUBB2B,ENSG00000137285,Gene Expression
+NPC-like neural,MLLT11,ENSG00000213190,Gene Expression
+NPC-like neural,SOX11,ENSG00000176887,Gene Expression
+NPC-like neural,MARCKSL1,ENSG00000175130,Gene Expression
+NPC-like neural,STMN4,ENSG00000015592,Gene Expression
+NPC-like neural,MEG3,ENSG00000214548,Gene Expression
+NPC-like neural,MAP1B,ENSG00000131711,Gene Expression
+NPC-like neural,OS9,ENSG00000135506,Gene Expression
+NPC-like neural,MDM2,ENSG00000135679,Gene Expression
+NPC-like neural,UCHL1,ENSG00000154277,Gene Expression
+NPC-like neural,TUBB2A,ENSG00000137267,Gene Expression
+NPC-like neural,RBP1,ENSG00000114115,Gene Expression
+NPC-like neural,NFIB,ENSG00000147862,Gene Expression
+NPC-like neural,B4GALNT1,ENSG00000135454,Gene Expression
+NPC-like neural,TCF4,ENSG00000196628,Gene Expression
+NPC-like neural,DLX5,ENSG00000105880,Gene Expression
+NPC-like neural,CD24,ENSG00000272398,Gene Expression
+NPC-like neural,GPM6A,ENSG00000150625,Gene Expression
+NPC-like neural,TUBB,ENSG00000196230,Gene Expression
+NPC-like neural,PFN2,ENSG00000070087,Gene Expression
+NPC-like neural,ELAVL4,ENSG00000162374,Gene Expression
+NPC-like neural,DCX,ENSG00000077279,Gene Expression
+NPC-like neural,RND3,ENSG00000115963,Gene Expression
+NPC-like neural,NSG1,ENSG00000168824,Gene Expression
+NPC-like neural,RP11-620J15.3,ENSG00000257698,Gene Expression
+NPC-like neural,MAP2,ENSG00000078018,Gene Expression
+NPC-like neural,GADD45G,ENSG00000130222,Gene Expression
+NPC-like neural,PCSK1N,ENSG00000102109,Gene Expression
+NPC-like neural,NREP,ENSG00000134986,Gene Expression
+NPC-like neural,TSFM,ENSG00000123297,Gene Expression
+NPC-like neural,NOVA1,ENSG00000139910,Gene Expression
+NPC-like neural,TSPAN31,ENSG00000135452,Gene Expression
+NPC-like neural,NSG2,ENSG00000170091,Gene Expression
+NPC-like neural,CRMP1,ENSG00000072832,Gene Expression
+NPC-like neural,BEX1,ENSG00000133169,Gene Expression
+NPC-like neural,TSPAN13,ENSG00000106537,Gene Expression
+NPC-like neural,HES6,ENSG00000144485,Gene Expression
+NPC-like neural,DPYSL3,ENSG00000113657,Gene Expression
+NPC-like neural,TMSB15A,ENSG00000158164,Gene Expression
+NPC-like neural,FXYD6,ENSG00000137726,Gene Expression
+NPC-like neural,BASP1,ENSG00000176788,Gene Expression
+NPC-like neural,MDM4,ENSG00000198625,Gene Expression
+NPC-like neural,TMEM161B-AS1,ENSG00000247828,Gene Expression
+NPC-like Prolif,RP11-620J15.3,ENSG00000257698,Gene Expression
+NPC-like Prolif,CDK4,ENSG00000135446,Gene Expression
+NPC-like Prolif,H4C3,ENSG00000197061,Gene Expression
+NPC-like Prolif,HES6,ENSG00000144485,Gene Expression
+NPC-like Prolif,STMN1,ENSG00000117632,Gene Expression
+NPC-like Prolif,TUBB,ENSG00000196230,Gene Expression
+NPC-like Prolif,CENPF,ENSG00000117724,Gene Expression
+NPC-like Prolif,CKB,ENSG00000166165,Gene Expression
+NPC-like Prolif,UBE2C,ENSG00000175063,Gene Expression
+NPC-like Prolif,TUBA1B,ENSG00000123416,Gene Expression
+NPC-like Prolif,HMGN2,ENSG00000198830,Gene Expression
+NPC-like Prolif,TOP2A,ENSG00000131747,Gene Expression
+NPC-like Prolif,HMGB2,ENSG00000164104,Gene Expression
+NPC-like Prolif,PTTG1,ENSG00000164611,Gene Expression
+NPC-like Prolif,UBE2S,ENSG00000108106,Gene Expression
+NPC-like Prolif,TUBB2B,ENSG00000137285,Gene Expression
+NPC-like Prolif,H2AZ1,ENSG00000164032,Gene Expression
+NPC-like Prolif,PDGFRA,ENSG00000134853,Gene Expression
+NPC-like Prolif,TUBA1A,ENSG00000167552,Gene Expression
+NPC-like Prolif,HSPA6,ENSG00000173110,Gene Expression
+NPC-like Prolif,IGFBP2,ENSG00000115457,Gene Expression
+NPC-like Prolif,BIRC5,ENSG00000089685,Gene Expression
+NPC-like Prolif,MARCKSL1,ENSG00000175130,Gene Expression
+NPC-like Prolif,NUSAP1,ENSG00000137804,Gene Expression
+NPC-like Prolif,BCAN,ENSG00000132692,Gene Expression
+NPC-like Prolif,TYMS,ENSG00000176890,Gene Expression
+NPC-like Prolif,NOVA1,ENSG00000139910,Gene Expression
+NPC-like Prolif,TSFM,ENSG00000123297,Gene Expression
+NPC-like Prolif,ARL6IP1,ENSG00000170540,Gene Expression
+NPC-like Prolif,PTN,ENSG00000105894,Gene Expression
+NPC-like Prolif,TUBB4B,ENSG00000188229,Gene Expression
+NPC-like Prolif,MARCHF9,ENSG00000139266,Gene Expression
+NPC-like Prolif,OLIG2,ENSG00000205927,Gene Expression
+NPC-like Prolif,KPNA2,ENSG00000182481,Gene Expression
+NPC-like Prolif,MKI67,ENSG00000148773,Gene Expression
+NPC-like Prolif,RBP1,ENSG00000114115,Gene Expression
+NPC-like Prolif,MAD2L1,ENSG00000164109,Gene Expression
+NPC-like Prolif,GPM6A,ENSG00000150625,Gene Expression
+NPC-like Prolif,PBK,ENSG00000168078,Gene Expression
+NPC-like Prolif,NNAT,ENSG00000053438,Gene Expression
+NPC-like Prolif,SMC4,ENSG00000113810,Gene Expression
+NPC-like Prolif,UBE2T,ENSG00000077152,Gene Expression
+NPC-like Prolif,FXYD6,ENSG00000137726,Gene Expression
+NPC-like Prolif,OLIG1,ENSG00000184221,Gene Expression
+NPC-like Prolif,DNAJB1,ENSG00000132002,Gene Expression
+NPC-like Prolif,CCNB1,ENSG00000134057,Gene Expression
+NPC-like Prolif,CKS2,ENSG00000123975,Gene Expression
+NPC-like Prolif,SOX4,ENSG00000124766,Gene Expression
+NPC-like Prolif,METRN,ENSG00000103260,Gene Expression
+NPC-like Prolif,TMSB15A,ENSG00000158164,Gene Expression
+Astrocyte,SLC1A2,ENSG00000110436,Gene Expression
+Astrocyte,SPARCL1,ENSG00000152583,Gene Expression
+Astrocyte,CPE,ENSG00000109472,Gene Expression
+Astrocyte,ALDOC,ENSG00000109107,Gene Expression
+Astrocyte,CLU,ENSG00000120885,Gene Expression
+Astrocyte,SLC1A3,ENSG00000079215,Gene Expression
+Astrocyte,AQP4,ENSG00000171885,Gene Expression
+Astrocyte,ATP1A2,ENSG00000018625,Gene Expression
+Astrocyte,GLUL,ENSG00000135821,Gene Expression
+Astrocyte,ETNPPL,ENSG00000164089,Gene Expression
+Astrocyte,NTRK2,ENSG00000148053,Gene Expression
+Astrocyte,SERPINA3,ENSG00000196136,Gene Expression
+Astrocyte,AGT,ENSG00000135744,Gene Expression
+Astrocyte,SERPINE2,ENSG00000135919,Gene Expression
+Astrocyte,ADGRV1,ENSG00000164199,Gene Expression
+Astrocyte,PLPP3,ENSG00000162407,Gene Expression
+Astrocyte,MGST1,ENSG00000008394,Gene Expression
+Astrocyte,GPM6A,ENSG00000150625,Gene Expression
+Astrocyte,DKK3,ENSG00000050165,Gene Expression
+Astrocyte,FAM107A,ENSG00000168309,Gene Expression
+Astrocyte,TSPAN7,ENSG00000156298,Gene Expression
+Astrocyte,GPRC5B,ENSG00000167191,Gene Expression
+Astrocyte,ITM2C,ENSG00000135916,Gene Expression
+Astrocyte,WIF1,ENSG00000156076,Gene Expression
+Astrocyte,GJA1,ENSG00000152661,Gene Expression
+Astrocyte,NDRG2,ENSG00000165795,Gene Expression
+Astrocyte,CXCL8,ENSG00000169429,Gene Expression
+Astrocyte,IGFBP7,ENSG00000163453,Gene Expression
+Astrocyte,F3,ENSG00000117525,Gene Expression
+Astrocyte,CLDN10,ENSG00000134873,Gene Expression
+Astrocyte,ATP1B2,ENSG00000129244,Gene Expression
+Astrocyte,CST3,ENSG00000101439,Gene Expression
+Astrocyte,AHCYL1,ENSG00000168710,Gene Expression
+Astrocyte,CSRP1,ENSG00000159176,Gene Expression
+Astrocyte,TTYH1,ENSG00000167614,Gene Expression
+Astrocyte,TPD52L1,ENSG00000111907,Gene Expression
+Astrocyte,DTNA,ENSG00000134769,Gene Expression
+Astrocyte,GJB6,ENSG00000121742,Gene Expression
+Astrocyte,PTGDS,ENSG00000107317,Gene Expression
+Astrocyte,GRAMD2B,ENSG00000155324,Gene Expression
+Astrocyte,GPR37L1,ENSG00000170075,Gene Expression
+Astrocyte,HTRA1,ENSG00000166033,Gene Expression
+Astrocyte,SCG3,ENSG00000104112,Gene Expression
+Astrocyte,CNN3,ENSG00000117519,Gene Expression
+Astrocyte,S100B,ENSG00000160307,Gene Expression
+Astrocyte,SLC25A18,ENSG00000182902,Gene Expression
+Astrocyte,MGLL,ENSG00000074416,Gene Expression
+Astrocyte,TSC22D1,ENSG00000102804,Gene Expression
+Astrocyte,TUBB2B,ENSG00000137285,Gene Expression
+Astrocyte,GPM6B,ENSG00000046653,Gene Expression
+Oligodendrocyte,PLP1,ENSG00000123560,Gene Expression
+Oligodendrocyte,PTGDS,ENSG00000107317,Gene Expression
+Oligodendrocyte,PPP1R14A,ENSG00000167641,Gene Expression
+Oligodendrocyte,MBP,ENSG00000197971,Gene Expression
+Oligodendrocyte,TF,ENSG00000091513,Gene Expression
+Oligodendrocyte,CNP,ENSG00000173786,Gene Expression
+Oligodendrocyte,QDPR,ENSG00000151552,Gene Expression
+Oligodendrocyte,CLDND1,ENSG00000080822,Gene Expression
+Oligodendrocyte,MAG,ENSG00000105695,Gene Expression
+Oligodendrocyte,APLP1,ENSG00000105290,Gene Expression
+Oligodendrocyte,SELENOP,ENSG00000250722,Gene Expression
+Oligodendrocyte,CLDN11,ENSG00000013297,Gene Expression
+Oligodendrocyte,CRYAB,ENSG00000109846,Gene Expression
+Oligodendrocyte,APOD,ENSG00000189058,Gene Expression
+Oligodendrocyte,ERMN,ENSG00000136541,Gene Expression
+Oligodendrocyte,CNDP1,ENSG00000150656,Gene Expression
+Oligodendrocyte,TMEM144,ENSG00000164124,Gene Expression
+Oligodendrocyte,S100B,ENSG00000160307,Gene Expression
+Oligodendrocyte,S100A1,ENSG00000160678,Gene Expression
+Oligodendrocyte,GSN,ENSG00000148180,Gene Expression
+Oligodendrocyte,SCD,ENSG00000099194,Gene Expression
+Oligodendrocyte,TUBB4A,ENSG00000104833,Gene Expression
+Oligodendrocyte,GPM6B,ENSG00000046653,Gene Expression
+Oligodendrocyte,KLK6,ENSG00000167755,Gene Expression
+Oligodendrocyte,SLC44A1,ENSG00000070214,Gene Expression
+Oligodendrocyte,RNASE1,ENSG00000129538,Gene Expression
+Oligodendrocyte,FEZ1,ENSG00000149557,Gene Expression
+Oligodendrocyte,SEPTIN4,ENSG00000108387,Gene Expression
+Oligodendrocyte,MOG,ENSG00000204655,Gene Expression
+Oligodendrocyte,ENPP2,ENSG00000136960,Gene Expression
+Oligodendrocyte,MOBP,ENSG00000168314,Gene Expression
+Oligodendrocyte,EDIL3,ENSG00000164176,Gene Expression
+Oligodendrocyte,CAMK2N1,ENSG00000162545,Gene Expression
+Oligodendrocyte,ATP1B1,ENSG00000143153,Gene Expression
+Oligodendrocyte,SLAIN1,ENSG00000139737,Gene Expression
+Oligodendrocyte,PLAAT3,ENSG00000176485,Gene Expression
+Oligodendrocyte,LARP6,ENSG00000166173,Gene Expression
+Oligodendrocyte,CA2,ENSG00000104267,Gene Expression
+Oligodendrocyte,ABCA2,ENSG00000107331,Gene Expression
+Oligodendrocyte,LHPP,ENSG00000107902,Gene Expression
+Oligodendrocyte,NKX6-2,ENSG00000148826,Gene Expression
+Oligodendrocyte,ANLN,ENSG00000011426,Gene Expression
+Oligodendrocyte,PIP4K2A,ENSG00000150867,Gene Expression
+Oligodendrocyte,PLEKHB1,ENSG00000021300,Gene Expression
+Oligodendrocyte,PLLP,ENSG00000102934,Gene Expression
+Oligodendrocyte,AMER2,ENSG00000165566,Gene Expression
+Oligodendrocyte,EFHD1,ENSG00000115468,Gene Expression
+Oligodendrocyte,MAL,ENSG00000172005,Gene Expression
+Oligodendrocyte,TTLL7,ENSG00000137941,Gene Expression
+Oligodendrocyte,CNTN2,ENSG00000184144,Gene Expression
+OPC,APOD,ENSG00000189058,Gene Expression
+OPC,VCAN,ENSG00000038427,Gene Expression
+OPC,ALDOC,ENSG00000109107,Gene Expression
+OPC,HTRA1,ENSG00000166033,Gene Expression
+OPC,BCAN,ENSG00000132692,Gene Expression
+OPC,TSPAN7,ENSG00000156298,Gene Expression
+OPC,PLLP,ENSG00000102934,Gene Expression
+OPC,SCD5,ENSG00000145284,Gene Expression
+OPC,MEG3,ENSG00000214548,Gene Expression
+OPC,CDR1,ENSG00000184258,Gene Expression
+OPC,PTPRZ1,ENSG00000106278,Gene Expression
+OPC,SPOCK1,ENSG00000152377,Gene Expression
+OPC,TNR,ENSG00000116147,Gene Expression
+OPC,DNER,ENSG00000187957,Gene Expression
+OPC,PDZD2,ENSG00000133401,Gene Expression
+OPC,MEGF11,ENSG00000157890,Gene Expression
+OPC,NRCAM,ENSG00000091129,Gene Expression
+OPC,TSC22D1,ENSG00000102804,Gene Expression
+OPC,GPR17,ENSG00000144230,Gene Expression
+OPC,SLC22A17,ENSG00000092096,Gene Expression
+OPC,SULF2,ENSG00000196562,Gene Expression
+OPC,EPN2,ENSG00000072134,Gene Expression
+OPC,OLIG1,ENSG00000184221,Gene Expression
+OPC,PDGFRA,ENSG00000134853,Gene Expression
+OPC,GPRC5B,ENSG00000167191,Gene Expression
+OPC,SLC1A2,ENSG00000110436,Gene Expression
+OPC,SEMA5A,ENSG00000112902,Gene Expression
+OPC,ATCAY,ENSG00000167654,Gene Expression
+OPC,ZNF462,ENSG00000148143,Gene Expression
+OPC,SERPINE2,ENSG00000135919,Gene Expression
+OPC,CSPG4,ENSG00000173546,Gene Expression
+OPC,NCAM1,ENSG00000149294,Gene Expression
+OPC,CD82,ENSG00000085117,Gene Expression
+OPC,SNX22,ENSG00000157734,Gene Expression
+OPC,OMG,ENSG00000126861,Gene Expression
+OPC,FXYD6,ENSG00000137726,Gene Expression
+OPC,HIP1R,ENSG00000130787,Gene Expression
+OPC,SDC3,ENSG00000162512,Gene Expression
+OPC,GPR37L1,ENSG00000170075,Gene Expression
+OPC,GPM6A,ENSG00000150625,Gene Expression
+OPC,CHL1,ENSG00000134121,Gene Expression
+OPC,LHFPL3,ENSG00000187416,Gene Expression
+OPC,SMOC1,ENSG00000198732,Gene Expression
+OPC,GRIA2,ENSG00000120251,Gene Expression
+OPC,SLC6A1,ENSG00000157103,Gene Expression
+OPC,MTSS1,ENSG00000170873,Gene Expression
+OPC,CA10,ENSG00000154975,Gene Expression
+OPC,MSMO1,ENSG00000052802,Gene Expression
+OPC,SLC35F1,ENSG00000196376,Gene Expression
+OPC,THY1,ENSG00000154096,Gene Expression
+RG,SOX4,ENSG00000124766,Gene Expression
+RG,HES1,ENSG00000114315,Gene Expression
+RG,H2AZ1,ENSG00000164032,Gene Expression
+RG,EMX2,ENSG00000170370,Gene Expression
+RG,MIR9-1HG,ENSG00000125462,Gene Expression
+RG,H4C3,ENSG00000197061,Gene Expression
+RG,HMGB2,ENSG00000164104,Gene Expression
+RG,STMN1,ENSG00000117632,Gene Expression
+RG,CENPW,ENSG00000203760,Gene Expression
+RG,TUBB,ENSG00000196230,Gene Expression
+RG,TUBA1A,ENSG00000167552,Gene Expression
+RG,LINC01551,ENSG00000186960,Gene Expression
+RG,PTTG1,ENSG00000164611,Gene Expression
+RG,PCLAF,ENSG00000166803,Gene Expression
+RG,CENPF,ENSG00000117724,Gene Expression
+RG,HMGB3,ENSG00000029993,Gene Expression
+RG,TMSB15A,ENSG00000158164,Gene Expression
+RG,KPNA2,ENSG00000182481,Gene Expression
+RG,TMEM161B-AS1,ENSG00000247828,Gene Expression
+RG,FABP7,ENSG00000164434,Gene Expression
+RG,SOX11,ENSG00000176887,Gene Expression
+RG,TOP2A,ENSG00000131747,Gene Expression
+RG,TUBA1B,ENSG00000123416,Gene Expression
+RG,CKS1B,ENSG00000173207,Gene Expression
+RG,NUSAP1,ENSG00000137804,Gene Expression
+RG,UBE2T,ENSG00000077152,Gene Expression
+RG,TAGLN3,ENSG00000144834,Gene Expression
+RG,KNOP1,ENSG00000103550,Gene Expression
+RG,RBM4,ENSG00000173933,Gene Expression
+RG,HSP90AA1,ENSG00000080824,Gene Expression
+RG,LIX1,ENSG00000145721,Gene Expression
+RG,STMN4,ENSG00000015592,Gene Expression
+RG,PEG10,ENSG00000242265,Gene Expression
+RG,CSRP2,ENSG00000175183,Gene Expression
+RG,CCNB2,ENSG00000157456,Gene Expression
+RG,NNAT,ENSG00000053438,Gene Expression
+RG,PHGDH,ENSG00000092621,Gene Expression
+RG,HMGN2,ENSG00000198830,Gene Expression
+RG,CDK1,ENSG00000170312,Gene Expression
+RG,BIRC5,ENSG00000089685,Gene Expression
+RG,CKS2,ENSG00000123975,Gene Expression
+RG,GINS2,ENSG00000131153,Gene Expression
+RG,MAP1B,ENSG00000131711,Gene Expression
+RG,MSMO1,ENSG00000052802,Gene Expression
+RG,TLE4,ENSG00000106829,Gene Expression
+RG,ACAT2,ENSG00000120437,Gene Expression
+RG,MCM7,ENSG00000166508,Gene Expression
+RG,MLLT11,ENSG00000213190,Gene Expression
+RG,PCNA,ENSG00000132646,Gene Expression
+RG,C3orf14,ENSG00000114405,Gene Expression
+Neuron,CXCL14,ENSG00000145824,Gene Expression
+Neuron,MEG3,ENSG00000214548,Gene Expression
+Neuron,CCK,ENSG00000187094,Gene Expression
+Neuron,SNAP25,ENSG00000132639,Gene Expression
+Neuron,RTN1,ENSG00000139970,Gene Expression
+Neuron,CDR1,ENSG00000184258,Gene Expression
+Neuron,TMEM130,ENSG00000166448,Gene Expression
+Neuron,GAD1,ENSG00000128683,Gene Expression
+Neuron,SCG2,ENSG00000171951,Gene Expression
+Neuron,ALDOC,ENSG00000109107,Gene Expression
+Neuron,TSPAN7,ENSG00000156298,Gene Expression
+Neuron,CALB2,ENSG00000172137,Gene Expression
+Neuron,SLC6A1,ENSG00000157103,Gene Expression
+Neuron,SYNPR,ENSG00000163630,Gene Expression
+Neuron,CNTNAP2,ENSG00000174469,Gene Expression
+Neuron,NDRG4,ENSG00000103034,Gene Expression
+Neuron,SYT1,ENSG00000067715,Gene Expression
+Neuron,ENO2,ENSG00000111674,Gene Expression
+Neuron,FXYD6,ENSG00000137726,Gene Expression
+Neuron,DKK3,ENSG00000050165,Gene Expression
+Neuron,NAP1L3,ENSG00000186310,Gene Expression
+Neuron,FAIM2,ENSG00000135472,Gene Expression
+Neuron,TUBB2A,ENSG00000137267,Gene Expression
+Neuron,SPOCK1,ENSG00000152377,Gene Expression
+Neuron,SLC22A17,ENSG00000092096,Gene Expression
+Neuron,TUBB4A,ENSG00000104833,Gene Expression
+Neuron,DNER,ENSG00000187957,Gene Expression
+Neuron,UCHL1,ENSG00000154277,Gene Expression
+Neuron,SCG5,ENSG00000166922,Gene Expression
+Neuron,SYNGR3,ENSG00000127561,Gene Expression
+Neuron,RCAN2,ENSG00000172348,Gene Expression
+Neuron,RELN,ENSG00000189056,Gene Expression
+Neuron,CAMK2B,ENSG00000058404,Gene Expression
+Neuron,TAGLN3,ENSG00000144834,Gene Expression
+Neuron,THY1,ENSG00000154096,Gene Expression
+Neuron,MAP1B,ENSG00000131711,Gene Expression
+Neuron,TSC22D1,ENSG00000102804,Gene Expression
+Neuron,OLFM1,ENSG00000130558,Gene Expression
+Neuron,STMN1,ENSG00000117632,Gene Expression
+Neuron,TSPYL2,ENSG00000184205,Gene Expression
+Neuron,ATP1B1,ENSG00000143153,Gene Expression
+Neuron,CYFIP2,ENSG00000055163,Gene Expression
+Neuron,RPH3A,ENSG00000089169,Gene Expression
+Neuron,GAD2,ENSG00000136750,Gene Expression
+Neuron,MAP1A,ENSG00000166963,Gene Expression
+Neuron,PHYHIPL,ENSG00000165443,Gene Expression
+Neuron,KIF1A,ENSG00000130294,Gene Expression
+Neuron,DPP6,ENSG00000130226,Gene Expression
+Neuron,SCN2A,ENSG00000136531,Gene Expression
+Neuron,PCLO,ENSG00000186472,Gene Expression
+Mono naive,S100A9,ENSG00000163220,Gene Expression
+Mono naive,S100A8,ENSG00000143546,Gene Expression
+Mono naive,LYZ,ENSG00000090382,Gene Expression
+Mono naive,FCN1,ENSG00000085265,Gene Expression
+Mono naive,VCAN,ENSG00000038427,Gene Expression
+Mono naive,S100A4,ENSG00000196154,Gene Expression
+Mono naive,S100A12,ENSG00000163221,Gene Expression
+Mono naive,TIMP1,ENSG00000102265,Gene Expression
+Mono naive,CTSS,ENSG00000163131,Gene Expression
+Mono naive,LST1,ENSG00000204482,Gene Expression
+Mono naive,CXCL2,ENSG00000081041,Gene Expression
+Mono naive,CXCL8,ENSG00000169429,Gene Expression
+Mono naive,MNDA,ENSG00000163563,Gene Expression
+Mono naive,S100A6,ENSG00000197956,Gene Expression
+Mono naive,SERPINA1,ENSG00000197249,Gene Expression
+Mono naive,RP11-1143G9.4,ENSG00000257764,Gene Expression
+Mono naive,EREG,ENSG00000124882,Gene Expression
+Mono naive,BCL2A1,ENSG00000140379,Gene Expression
+Mono naive,NAMPT,ENSG00000105835,Gene Expression
+Mono naive,AIF1,ENSG00000204472,Gene Expression
+Mono naive,TYMP,ENSG00000025708,Gene Expression
+Mono naive,G0S2,ENSG00000123689,Gene Expression
+Mono naive,CSTA,ENSG00000121552,Gene Expression
+Mono naive,TYROBP,ENSG00000011600,Gene Expression
+Mono naive,S100A10,ENSG00000197747,Gene Expression
+Mono naive,STXBP2,ENSG00000076944,Gene Expression
+Mono naive,S100A11,ENSG00000163191,Gene Expression
+Mono naive,NFKBIA,ENSG00000100906,Gene Expression
+Mono naive,IL1B,ENSG00000125538,Gene Expression
+Mono naive,SRGN,ENSG00000122862,Gene Expression
+Mono naive,AREG,ENSG00000109321,Gene Expression
+Mono naive,THBS1,ENSG00000137801,Gene Expression
+Mono naive,RETN,ENSG00000104918,Gene Expression
+Mono naive,COTL1,ENSG00000103187,Gene Expression
+Mono naive,SH3BGRL3,ENSG00000142669,Gene Expression
+Mono naive,PLAUR,ENSG00000011422,Gene Expression
+Mono naive,RGS2,ENSG00000116741,Gene Expression
+Mono naive,CYBA,ENSG00000051523,Gene Expression
+Mono naive,FGL2,ENSG00000127951,Gene Expression
+Mono naive,PELATON,ENSG00000224397,Gene Expression
+Mono naive,CEBPB,ENSG00000172216,Gene Expression
+Mono naive,CFD,ENSG00000197766,Gene Expression
+Mono naive,C1orf162,ENSG00000143110,Gene Expression
+Mono naive,SLC2A3,ENSG00000059804,Gene Expression
+Mono naive,FCER1G,ENSG00000158869,Gene Expression
+Mono naive,SOD2,ENSG00000112096,Gene Expression
+Mono naive,CD55,ENSG00000196352,Gene Expression
+Mono naive,CXCL3,ENSG00000163734,Gene Expression
+Mono naive,NEAT1,ENSG00000245532,Gene Expression
+Mono naive,NCF2,ENSG00000116701,Gene Expression
+Mono anti-infl,FTL,ENSG00000087086,Gene Expression
+Mono anti-infl,LYZ,ENSG00000090382,Gene Expression
+Mono anti-infl,CTSD,ENSG00000117984,Gene Expression
+Mono anti-infl,PLTP,ENSG00000100979,Gene Expression
+Mono anti-infl,GPNMB,ENSG00000136235,Gene Expression
+Mono anti-infl,RNASE1,ENSG00000129538,Gene Expression
+Mono anti-infl,CTSB,ENSG00000164733,Gene Expression
+Mono anti-infl,CD163,ENSG00000177575,Gene Expression
+Mono anti-infl,HLA-DRB1,ENSG00000196126,Gene Expression
+Mono anti-infl,SELENOP,ENSG00000250722,Gene Expression
+Mono anti-infl,CTSZ,ENSG00000101160,Gene Expression
+Mono anti-infl,F13A1,ENSG00000124491,Gene Expression
+Mono anti-infl,HLA-DRA,ENSG00000204287,Gene Expression
+Mono anti-infl,MS4A6A,ENSG00000110077,Gene Expression
+Mono anti-infl,CTSL,ENSG00000135047,Gene Expression
+Mono anti-infl,CD14,ENSG00000170458,Gene Expression
+Mono anti-infl,MS4A4A,ENSG00000110079,Gene Expression
+Mono anti-infl,LGMN,ENSG00000100600,Gene Expression
+Mono anti-infl,STAB1,ENSG00000010327,Gene Expression
+Mono anti-infl,TXNIP,ENSG00000265972,Gene Expression
+Mono anti-infl,S100A9,ENSG00000163220,Gene Expression
+Mono anti-infl,HLA-DPB1,ENSG00000223865,Gene Expression
+Mono anti-infl,GRN,ENSG00000030582,Gene Expression
+Mono anti-infl,MRC1,ENSG00000260314,Gene Expression
+Mono anti-infl,CTSS,ENSG00000163131,Gene Expression
+Mono anti-infl,HMOX1,ENSG00000100292,Gene Expression
+Mono anti-infl,MS4A7,ENSG00000166927,Gene Expression
+Mono anti-infl,C1QA,ENSG00000173372,Gene Expression
+Mono anti-infl,GLUL,ENSG00000135821,Gene Expression
+Mono anti-infl,HLA-DPA1,ENSG00000231389,Gene Expression
+Mono anti-infl,CD68,ENSG00000129226,Gene Expression
+Mono anti-infl,AIF1,ENSG00000204472,Gene Expression
+Mono anti-infl,FOLR2,ENSG00000165457,Gene Expression
+Mono anti-infl,PSAP,ENSG00000197746,Gene Expression
+Mono anti-infl,FCGRT,ENSG00000104870,Gene Expression
+Mono anti-infl,CFD,ENSG00000197766,Gene Expression
+Mono anti-infl,NPC2,ENSG00000119655,Gene Expression
+Mono anti-infl,TGFBI,ENSG00000120708,Gene Expression
+Mono anti-infl,DAB2,ENSG00000153071,Gene Expression
+Mono anti-infl,S100A11,ENSG00000163191,Gene Expression
+Mono anti-infl,FCER1G,ENSG00000158869,Gene Expression
+Mono anti-infl,TYROBP,ENSG00000011600,Gene Expression
+Mono anti-infl,C1QB,ENSG00000173369,Gene Expression
+Mono anti-infl,FCGR3A,ENSG00000203747,Gene Expression
+Mono anti-infl,CCL2,ENSG00000108691,Gene Expression
+Mono anti-infl,FCGR2A,ENSG00000143226,Gene Expression
+Mono anti-infl,HLA-DMA,ENSG00000204257,Gene Expression
+Mono anti-infl,CYBA,ENSG00000051523,Gene Expression
+Mono anti-infl,SLCO2B1,ENSG00000137491,Gene Expression
+Mono hypoxia,CXCL3,ENSG00000163734,Gene Expression
+Mono hypoxia,VCAN,ENSG00000038427,Gene Expression
+Mono hypoxia,CXCL8,ENSG00000169429,Gene Expression
+Mono hypoxia,CXCL2,ENSG00000081041,Gene Expression
+Mono hypoxia,TIMP1,ENSG00000102265,Gene Expression
+Mono hypoxia,S100A9,ENSG00000163220,Gene Expression
+Mono hypoxia,CCL20,ENSG00000115009,Gene Expression
+Mono hypoxia,C15orf48,ENSG00000166920,Gene Expression
+Mono hypoxia,S100A8,ENSG00000143546,Gene Expression
+Mono hypoxia,LYZ,ENSG00000090382,Gene Expression
+Mono hypoxia,S100A10,ENSG00000197747,Gene Expression
+Mono hypoxia,PLIN2,ENSG00000147872,Gene Expression
+Mono hypoxia,G0S2,ENSG00000123689,Gene Expression
+Mono hypoxia,FN1,ENSG00000115414,Gene Expression
+Mono hypoxia,EREG,ENSG00000124882,Gene Expression
+Mono hypoxia,FTH1,ENSG00000167996,Gene Expression
+Mono hypoxia,SH3BGRL3,ENSG00000142669,Gene Expression
+Mono hypoxia,NAMPT,ENSG00000105835,Gene Expression
+Mono hypoxia,AREG,ENSG00000109321,Gene Expression
+Mono hypoxia,BCL2A1,ENSG00000140379,Gene Expression
+Mono hypoxia,SRGN,ENSG00000122862,Gene Expression
+Mono hypoxia,TGFBI,ENSG00000120708,Gene Expression
+Mono hypoxia,S100A4,ENSG00000196154,Gene Expression
+Mono hypoxia,CCL2,ENSG00000108691,Gene Expression
+Mono hypoxia,MARCO,ENSG00000019169,Gene Expression
+Mono hypoxia,PLAUR,ENSG00000011422,Gene Expression
+Mono hypoxia,SLC2A3,ENSG00000059804,Gene Expression
+Mono hypoxia,LGALS1,ENSG00000100097,Gene Expression
+Mono hypoxia,CEBPB,ENSG00000172216,Gene Expression
+Mono hypoxia,S100A11,ENSG00000163191,Gene Expression
+Mono hypoxia,CLEC5A,ENSG00000258227,Gene Expression
+Mono hypoxia,THBS1,ENSG00000137801,Gene Expression
+Mono hypoxia,IL1RN,ENSG00000136689,Gene Expression
+Mono hypoxia,BTG1,ENSG00000133639,Gene Expression
+Mono hypoxia,SERPINA1,ENSG00000197249,Gene Expression
+Mono hypoxia,TYMP,ENSG00000025708,Gene Expression
+Mono hypoxia,SAT1,ENSG00000130066,Gene Expression
+Mono hypoxia,SLC11A1,ENSG00000018280,Gene Expression
+Mono hypoxia,IL1B,ENSG00000125538,Gene Expression
+Mono hypoxia,FBP1,ENSG00000165140,Gene Expression
+Mono hypoxia,ALOX5AP,ENSG00000132965,Gene Expression
+Mono hypoxia,FCER1G,ENSG00000158869,Gene Expression
+Mono hypoxia,CD44,ENSG00000026508,Gene Expression
+Mono hypoxia,MRC1,ENSG00000260314,Gene Expression
+Mono hypoxia,FCN1,ENSG00000085265,Gene Expression
+Mono hypoxia,ANPEP,ENSG00000166825,Gene Expression
+Mono hypoxia,C1orf162,ENSG00000143110,Gene Expression
+Mono hypoxia,ZFP36L1,ENSG00000185650,Gene Expression
+Mono hypoxia,THBD,ENSG00000178726,Gene Expression
+Mono hypoxia,S100A6,ENSG00000197956,Gene Expression
+TAM-BDM hypoxia/MES,PLIN2,ENSG00000147872,Gene Expression
+TAM-BDM hypoxia/MES,MT1G,ENSG00000125144,Gene Expression
+TAM-BDM hypoxia/MES,CXCL8,ENSG00000169429,Gene Expression
+TAM-BDM hypoxia/MES,CSTB,ENSG00000160213,Gene Expression
+TAM-BDM hypoxia/MES,NUPR1,ENSG00000176046,Gene Expression
+TAM-BDM hypoxia/MES,FTL,ENSG00000087086,Gene Expression
+TAM-BDM hypoxia/MES,LGALS1,ENSG00000100097,Gene Expression
+TAM-BDM hypoxia/MES,HMOX1,ENSG00000100292,Gene Expression
+TAM-BDM hypoxia/MES,FTH1,ENSG00000167996,Gene Expression
+TAM-BDM hypoxia/MES,SPP1,ENSG00000118785,Gene Expression
+TAM-BDM hypoxia/MES,GPNMB,ENSG00000136235,Gene Expression
+TAM-BDM hypoxia/MES,G0S2,ENSG00000123689,Gene Expression
+TAM-BDM hypoxia/MES,ALOX5AP,ENSG00000132965,Gene Expression
+TAM-BDM hypoxia/MES,TGFBI,ENSG00000120708,Gene Expression
+TAM-BDM hypoxia/MES,CTSD,ENSG00000117984,Gene Expression
+TAM-BDM hypoxia/MES,S100A10,ENSG00000197747,Gene Expression
+TAM-BDM hypoxia/MES,CTSB,ENSG00000164733,Gene Expression
+TAM-BDM hypoxia/MES,RNASE1,ENSG00000129538,Gene Expression
+TAM-BDM hypoxia/MES,C15orf48,ENSG00000166920,Gene Expression
+TAM-BDM hypoxia/MES,FCGBP,ENSG00000275395,Gene Expression
+TAM-BDM hypoxia/MES,ADM,ENSG00000148926,Gene Expression
+TAM-BDM hypoxia/MES,SNHG12,ENSG00000197989,Gene Expression
+TAM-BDM hypoxia/MES,CTSL,ENSG00000135047,Gene Expression
+TAM-BDM hypoxia/MES,HK2,ENSG00000159399,Gene Expression
+TAM-BDM hypoxia/MES,SLC2A3,ENSG00000059804,Gene Expression
+TAM-BDM hypoxia/MES,FN1,ENSG00000115414,Gene Expression
+TAM-BDM hypoxia/MES,HBB,ENSG00000244734,Gene Expression
+TAM-BDM hypoxia/MES,FCGR2B,ENSG00000072694,Gene Expression
+TAM-BDM hypoxia/MES,SOD2,ENSG00000112096,Gene Expression
+TAM-BDM hypoxia/MES,RGCC,ENSG00000102760,Gene Expression
+TAM-BDM hypoxia/MES,S100A11,ENSG00000163191,Gene Expression
+TAM-BDM hypoxia/MES,SLC16A3,ENSG00000141526,Gene Expression
+TAM-BDM hypoxia/MES,ERO1A,ENSG00000197930,Gene Expression
+TAM-BDM hypoxia/MES,SAT1,ENSG00000130066,Gene Expression
+TAM-BDM hypoxia/MES,LAPTM5,ENSG00000162511,Gene Expression
+TAM-BDM hypoxia/MES,SRGN,ENSG00000122862,Gene Expression
+TAM-BDM hypoxia/MES,VCAN,ENSG00000038427,Gene Expression
+TAM-BDM hypoxia/MES,PLAUR,ENSG00000011422,Gene Expression
+TAM-BDM hypoxia/MES,MT1E,ENSG00000169715,Gene Expression
+TAM-BDM hypoxia/MES,MGAT1,ENSG00000131446,Gene Expression
+TAM-BDM hypoxia/MES,GLUL,ENSG00000135821,Gene Expression
+TAM-BDM hypoxia/MES,GAPDH,ENSG00000111640,Gene Expression
+TAM-BDM hypoxia/MES,SLC11A1,ENSG00000018280,Gene Expression
+TAM-BDM hypoxia/MES,FCER1G,ENSG00000158869,Gene Expression
+TAM-BDM hypoxia/MES,MT1X,ENSG00000187193,Gene Expression
+TAM-BDM hypoxia/MES,VIM,ENSG00000026025,Gene Expression
+TAM-BDM hypoxia/MES,RNASET2,ENSG00000026297,Gene Expression
+TAM-BDM hypoxia/MES,UPP1,ENSG00000183696,Gene Expression
+TAM-BDM hypoxia/MES,ANXA2,ENSG00000182718,Gene Expression
+TAM-BDM MHC,HLA-DPA1,ENSG00000231389,Gene Expression
+TAM-BDM MHC,HLA-DPB1,ENSG00000223865,Gene Expression
+TAM-BDM MHC,HLA-DRA,ENSG00000204287,Gene Expression
+TAM-BDM MHC,HLA-DQA1,ENSG00000196735,Gene Expression
+TAM-BDM MHC,HLA-DRB1,ENSG00000196126,Gene Expression
+TAM-BDM MHC,HLA-DQB1,ENSG00000179344,Gene Expression
+TAM-BDM MHC,HLA-DRB5,ENSG00000198502,Gene Expression
+TAM-BDM MHC,CD74,ENSG00000019582,Gene Expression
+TAM-BDM MHC,HLA-DQA2,ENSG00000237541,Gene Expression
+TAM-BDM MHC,LYZ,ENSG00000090382,Gene Expression
+TAM-BDM MHC,HLA-DMA,ENSG00000204257,Gene Expression
+TAM-BDM MHC,TYROBP,ENSG00000011600,Gene Expression
+TAM-BDM MHC,APOE,ENSG00000130203,Gene Expression
+TAM-BDM MHC,IER3,ENSG00000137331,Gene Expression
+TAM-BDM MHC,HLA-DMB,ENSG00000242574,Gene Expression
+TAM-BDM MHC,MS4A6A,ENSG00000110077,Gene Expression
+TAM-BDM MHC,C1QA,ENSG00000173372,Gene Expression
+TAM-BDM MHC,IL1B,ENSG00000125538,Gene Expression
+TAM-BDM MHC,RGS2,ENSG00000116741,Gene Expression
+TAM-BDM MHC,NPC2,ENSG00000119655,Gene Expression
+TAM-BDM MHC,SAT1,ENSG00000130066,Gene Expression
+TAM-BDM MHC,FCGRT,ENSG00000104870,Gene Expression
+TAM-BDM MHC,GRN,ENSG00000030582,Gene Expression
+TAM-BDM MHC,PLAUR,ENSG00000011422,Gene Expression
+TAM-BDM MHC,C1QB,ENSG00000173369,Gene Expression
+TAM-BDM MHC,CTSH,ENSG00000103811,Gene Expression
+TAM-BDM MHC,CXCL8,ENSG00000169429,Gene Expression
+TAM-BDM MHC,GPR183,ENSG00000169508,Gene Expression
+TAM-BDM MHC,SELENOP,ENSG00000250722,Gene Expression
+TAM-BDM MHC,C1QC,ENSG00000159189,Gene Expression
+TAM-BDM MHC,MS4A7,ENSG00000166927,Gene Expression
+TAM-BDM MHC,TYMP,ENSG00000025708,Gene Expression
+TAM-BDM MHC,AIF1,ENSG00000204472,Gene Expression
+TAM-BDM MHC,PSAP,ENSG00000197746,Gene Expression
+TAM-BDM MHC,CALHM6,ENSG00000188820,Gene Expression
+TAM-BDM MHC,CTSS,ENSG00000163131,Gene Expression
+TAM-BDM MHC,CYBA,ENSG00000051523,Gene Expression
+TAM-BDM MHC,CST3,ENSG00000101439,Gene Expression
+TAM-BDM MHC,CD14,ENSG00000170458,Gene Expression
+TAM-BDM MHC,LST1,ENSG00000204482,Gene Expression
+TAM-BDM MHC,C1orf162,ENSG00000143110,Gene Expression
+TAM-BDM MHC,CD68,ENSG00000129226,Gene Expression
+TAM-BDM MHC,RGS1,ENSG00000090104,Gene Expression
+TAM-BDM MHC,S100A11,ENSG00000163191,Gene Expression
+TAM-BDM MHC,FCER1G,ENSG00000158869,Gene Expression
+TAM-BDM MHC,CXCR4,ENSG00000121966,Gene Expression
+TAM-BDM MHC,DUSP1,ENSG00000120129,Gene Expression
+TAM-BDM MHC,NFKBIA,ENSG00000100906,Gene Expression
+TAM-BDM MHC,FXYD5,ENSG00000089327,Gene Expression
+TAM-BDM INF,C1QA,ENSG00000173372,Gene Expression
+TAM-BDM INF,CD14,ENSG00000170458,Gene Expression
+TAM-BDM INF,C1QB,ENSG00000173369,Gene Expression
+TAM-BDM INF,HLA-DRB1,ENSG00000196126,Gene Expression
+TAM-BDM INF,HLA-DRB5,ENSG00000198502,Gene Expression
+TAM-BDM INF,C1QC,ENSG00000159189,Gene Expression
+TAM-BDM INF,IFI27,ENSG00000165949,Gene Expression
+TAM-BDM INF,HLA-DPA1,ENSG00000231389,Gene Expression
+TAM-BDM INF,APOE,ENSG00000130203,Gene Expression
+TAM-BDM INF,TYROBP,ENSG00000011600,Gene Expression
+TAM-BDM INF,CD74,ENSG00000019582,Gene Expression
+TAM-BDM INF,HLA-DQB1,ENSG00000179344,Gene Expression
+TAM-BDM INF,HLA-DRA,ENSG00000204287,Gene Expression
+TAM-BDM INF,IER3,ENSG00000137331,Gene Expression
+TAM-BDM INF,MS4A6A,ENSG00000110077,Gene Expression
+TAM-BDM INF,IFI6,ENSG00000126709,Gene Expression
+TAM-BDM INF,FCER1G,ENSG00000158869,Gene Expression
+TAM-BDM INF,HLA-DQA1,ENSG00000196735,Gene Expression
+TAM-BDM INF,HLA-DPB1,ENSG00000223865,Gene Expression
+TAM-BDM INF,TMEM176B,ENSG00000106565,Gene Expression
+TAM-BDM INF,PSAP,ENSG00000197746,Gene Expression
+TAM-BDM INF,FCGR3A,ENSG00000203747,Gene Expression
+TAM-BDM INF,C3,ENSG00000125730,Gene Expression
+TAM-BDM INF,AIF1,ENSG00000204472,Gene Expression
+TAM-BDM INF,GRN,ENSG00000030582,Gene Expression
+TAM-BDM INF,IFITM3,ENSG00000142089,Gene Expression
+TAM-BDM INF,CCL2,ENSG00000108691,Gene Expression
+TAM-BDM INF,CYBA,ENSG00000051523,Gene Expression
+TAM-BDM INF,FCGBP,ENSG00000275395,Gene Expression
+TAM-BDM INF,FOLR2,ENSG00000165457,Gene Expression
+TAM-BDM INF,LYZ,ENSG00000090382,Gene Expression
+TAM-BDM INF,NPC2,ENSG00000119655,Gene Expression
+TAM-BDM INF,CCL3,ENSG00000277632,Gene Expression
+TAM-BDM INF,CD68,ENSG00000129226,Gene Expression
+TAM-BDM INF,FCGR1A,ENSG00000150337,Gene Expression
+TAM-BDM INF,FCGRT,ENSG00000104870,Gene Expression
+TAM-BDM INF,HLA-DMA,ENSG00000204257,Gene Expression
+TAM-BDM INF,ISG15,ENSG00000187608,Gene Expression
+TAM-BDM INF,CCL3L3,ENSG00000276085,Gene Expression
+TAM-BDM INF,MS4A7,ENSG00000166927,Gene Expression
+TAM-BDM INF,S100A11,ENSG00000163191,Gene Expression
+TAM-BDM INF,CTSS,ENSG00000163131,Gene Expression
+TAM-BDM INF,VSIG4,ENSG00000155659,Gene Expression
+TAM-BDM INF,HAMP,ENSG00000105697,Gene Expression
+TAM-BDM INF,BST2,ENSG00000130303,Gene Expression
+TAM-BDM INF,CCL4L2,ENSG00000276070,Gene Expression
+TAM-BDM INF,LY6E,ENSG00000160932,Gene Expression
+TAM-BDM INF,HLA-DMB,ENSG00000242574,Gene Expression
+TAM-BDM INF,TREM2,ENSG00000095970,Gene Expression
+TAM-BDM anti-infl,APOC1,ENSG00000130208,Gene Expression
+TAM-BDM anti-infl,C1QC,ENSG00000159189,Gene Expression
+TAM-BDM anti-infl,C1QB,ENSG00000173369,Gene Expression
+TAM-BDM anti-infl,CD74,ENSG00000019582,Gene Expression
+TAM-BDM anti-infl,C1QA,ENSG00000173372,Gene Expression
+TAM-BDM anti-infl,FCGBP,ENSG00000275395,Gene Expression
+TAM-BDM anti-infl,SAT1,ENSG00000130066,Gene Expression
+TAM-BDM anti-infl,CTSB,ENSG00000164733,Gene Expression
+TAM-BDM anti-infl,APOE,ENSG00000130203,Gene Expression
+TAM-BDM anti-infl,SPP1,ENSG00000118785,Gene Expression
+TAM-BDM anti-infl,RGS1,ENSG00000090104,Gene Expression
+TAM-BDM anti-infl,NPC2,ENSG00000119655,Gene Expression
+TAM-BDM anti-infl,HLA-DRA,ENSG00000204287,Gene Expression
+TAM-BDM anti-infl,FTL,ENSG00000087086,Gene Expression
+TAM-BDM anti-infl,TYROBP,ENSG00000011600,Gene Expression
+TAM-BDM anti-infl,FCER1G,ENSG00000158869,Gene Expression
+TAM-BDM anti-infl,CD163,ENSG00000177575,Gene Expression
+TAM-BDM anti-infl,RHOB,ENSG00000143878,Gene Expression
+TAM-BDM anti-infl,HLA-DPB1,ENSG00000223865,Gene Expression
+TAM-BDM anti-infl,SRGN,ENSG00000122862,Gene Expression
+TAM-BDM anti-infl,SGK1,ENSG00000118515,Gene Expression
+TAM-BDM anti-infl,CCL4L2,ENSG00000276070,Gene Expression
+TAM-BDM anti-infl,HLA-DRB5,ENSG00000198502,Gene Expression
+TAM-BDM anti-infl,HMOX1,ENSG00000100292,Gene Expression
+TAM-BDM anti-infl,VSIG4,ENSG00000155659,Gene Expression
+TAM-BDM anti-infl,HLA-DPA1,ENSG00000231389,Gene Expression
+TAM-BDM anti-infl,CCL3,ENSG00000277632,Gene Expression
+TAM-BDM anti-infl,FCGR3A,ENSG00000203747,Gene Expression
+TAM-BDM anti-infl,CD14,ENSG00000170458,Gene Expression
+TAM-BDM anti-infl,AIF1,ENSG00000204472,Gene Expression
+TAM-BDM anti-infl,C3,ENSG00000125730,Gene Expression
+TAM-BDM anti-infl,MS4A7,ENSG00000166927,Gene Expression
+TAM-BDM anti-infl,HLA-DRB1,ENSG00000196126,Gene Expression
+TAM-BDM anti-infl,PLTP,ENSG00000100979,Gene Expression
+TAM-BDM anti-infl,KLF4,ENSG00000136826,Gene Expression
+TAM-BDM anti-infl,MS4A6A,ENSG00000110077,Gene Expression
+TAM-BDM anti-infl,TREM2,ENSG00000095970,Gene Expression
+TAM-BDM anti-infl,GPR183,ENSG00000169508,Gene Expression
+TAM-BDM anti-infl,DUSP1,ENSG00000120129,Gene Expression
+TAM-BDM anti-infl,RNASET2,ENSG00000026297,Gene Expression
+TAM-BDM anti-infl,ALOX5AP,ENSG00000132965,Gene Expression
+TAM-BDM anti-infl,SLC11A1,ENSG00000018280,Gene Expression
+TAM-BDM anti-infl,MAFB,ENSG00000204103,Gene Expression
+TAM-BDM anti-infl,PLAUR,ENSG00000011422,Gene Expression
+TAM-BDM anti-infl,LAPTM5,ENSG00000162511,Gene Expression
+TAM-BDM anti-infl,PSAP,ENSG00000197746,Gene Expression
+TAM-BDM anti-infl,OLR1,ENSG00000173391,Gene Expression
+TAM-BDM anti-infl,HAMP,ENSG00000105697,Gene Expression
+TAM-BDM anti-infl,FOS,ENSG00000170345,Gene Expression
+TAM-MG aging sig,SPP1,ENSG00000118785,Gene Expression
+TAM-MG aging sig,C1QB,ENSG00000173369,Gene Expression
+TAM-MG aging sig,HAMP,ENSG00000105697,Gene Expression
+TAM-MG aging sig,C1QA,ENSG00000173372,Gene Expression
+TAM-MG aging sig,C1QC,ENSG00000159189,Gene Expression
+TAM-MG aging sig,C3,ENSG00000125730,Gene Expression
+TAM-MG aging sig,RNASET2,ENSG00000026297,Gene Expression
+TAM-MG aging sig,APOC1,ENSG00000130208,Gene Expression
+TAM-MG aging sig,AIF1,ENSG00000204472,Gene Expression
+TAM-MG aging sig,TREM2,ENSG00000095970,Gene Expression
+TAM-MG aging sig,APOE,ENSG00000130203,Gene Expression
+TAM-MG aging sig,TMIGD3,ENSG00000121933,Gene Expression
+TAM-MG aging sig,CX3CR1,ENSG00000168329,Gene Expression
+TAM-MG aging sig,GPR34,ENSG00000171659,Gene Expression
+TAM-MG aging sig,CD14,ENSG00000170458,Gene Expression
+TAM-MG aging sig,VSIG4,ENSG00000155659,Gene Expression
+TAM-MG aging sig,A2M,ENSG00000175899,Gene Expression
+TAM-MG aging sig,NPC2,ENSG00000119655,Gene Expression
+TAM-MG aging sig,FCGR1A,ENSG00000150337,Gene Expression
+TAM-MG aging sig,CD74,ENSG00000019582,Gene Expression
+TAM-MG aging sig,FCER1G,ENSG00000158869,Gene Expression
+TAM-MG aging sig,CYBA,ENSG00000051523,Gene Expression
+TAM-MG aging sig,CSF1R,ENSG00000182578,Gene Expression
+TAM-MG aging sig,TYROBP,ENSG00000011600,Gene Expression
+TAM-MG aging sig,IFNGR1,ENSG00000027697,Gene Expression
+TAM-MG aging sig,SCIN,ENSG00000006747,Gene Expression
+TAM-MG aging sig,MS4A6A,ENSG00000110077,Gene Expression
+TAM-MG aging sig,ALOX5AP,ENSG00000132965,Gene Expression
+TAM-MG aging sig,FCGBP,ENSG00000275395,Gene Expression
+TAM-MG aging sig,MEF2C,ENSG00000081189,Gene Expression
+TAM-MG aging sig,HLA-DRA,ENSG00000204287,Gene Expression
+TAM-MG aging sig,BIN1,ENSG00000136717,Gene Expression
+TAM-MG aging sig,LST1,ENSG00000204482,Gene Expression
+TAM-MG aging sig,HLA-DMB,ENSG00000242574,Gene Expression
+TAM-MG aging sig,RGS10,ENSG00000148908,Gene Expression
+TAM-MG aging sig,RGS1,ENSG00000090104,Gene Expression
+TAM-MG aging sig,CYFIP1,ENSG00000273749,Gene Expression
+TAM-MG aging sig,FPR1,ENSG00000171051,Gene Expression
+TAM-MG aging sig,SORL1,ENSG00000137642,Gene Expression
+TAM-MG aging sig,S100A11,ENSG00000163191,Gene Expression
+TAM-MG aging sig,OLFML3,ENSG00000116774,Gene Expression
+TAM-MG aging sig,APOC2,ENSG00000234906,Gene Expression
+TAM-MG aging sig,HLA-DMA,ENSG00000204257,Gene Expression
+TAM-MG aging sig,IGSF6,ENSG00000140749,Gene Expression
+TAM-MG aging sig,LILRB4,ENSG00000186818,Gene Expression
+TAM-MG aging sig,LY96,ENSG00000154589,Gene Expression
+TAM-MG aging sig,FCGR3A,ENSG00000203747,Gene Expression
+TAM-MG aging sig,TMSB4X,ENSG00000205542,Gene Expression
+TAM-MG aging sig,PLD4,ENSG00000166428,Gene Expression
+TAM-MG pro-infl I,APOE,ENSG00000130203,Gene Expression
+TAM-MG pro-infl I,APOC1,ENSG00000130208,Gene Expression
+TAM-MG pro-infl I,SPP1,ENSG00000118785,Gene Expression
+TAM-MG pro-infl I,IFI27,ENSG00000165949,Gene Expression
+TAM-MG pro-infl I,C1QB,ENSG00000173369,Gene Expression
+TAM-MG pro-infl I,TREM2,ENSG00000095970,Gene Expression
+TAM-MG pro-infl I,GPR34,ENSG00000171659,Gene Expression
+TAM-MG pro-infl I,CD74,ENSG00000019582,Gene Expression
+TAM-MG pro-infl I,HLA-DPA1,ENSG00000231389,Gene Expression
+TAM-MG pro-infl I,CCL3,ENSG00000277632,Gene Expression
+TAM-MG pro-infl I,C1QC,ENSG00000159189,Gene Expression
+TAM-MG pro-infl I,RGS1,ENSG00000090104,Gene Expression
+TAM-MG pro-infl I,HLA-DRB1,ENSG00000196126,Gene Expression
+TAM-MG pro-infl I,CH25H,ENSG00000138135,Gene Expression
+TAM-MG pro-infl I,HLA-DRA,ENSG00000204287,Gene Expression
+TAM-MG pro-infl I,C1QA,ENSG00000173372,Gene Expression
+TAM-MG pro-infl I,RNASET2,ENSG00000026297,Gene Expression
+TAM-MG pro-infl I,HLA-DPB1,ENSG00000223865,Gene Expression
+TAM-MG pro-infl I,TYROBP,ENSG00000011600,Gene Expression
+TAM-MG pro-infl I,CCL4L2,ENSG00000276070,Gene Expression
+TAM-MG pro-infl I,CEBPD,ENSG00000221869,Gene Expression
+TAM-MG pro-infl I,IFI44L,ENSG00000137959,Gene Expression
+TAM-MG pro-infl I,NPC2,ENSG00000119655,Gene Expression
+TAM-MG pro-infl I,FTL,ENSG00000087086,Gene Expression
+TAM-MG pro-infl I,CD14,ENSG00000170458,Gene Expression
+TAM-MG pro-infl I,FCER1G,ENSG00000158869,Gene Expression
+TAM-MG pro-infl I,DUSP1,ENSG00000120129,Gene Expression
+TAM-MG pro-infl I,HLA-DQB1,ENSG00000179344,Gene Expression
+TAM-MG pro-infl I,HLA-DMA,ENSG00000204257,Gene Expression
+TAM-MG pro-infl I,SGK1,ENSG00000118515,Gene Expression
+TAM-MG pro-infl I,CD68,ENSG00000129226,Gene Expression
+TAM-MG pro-infl I,C3,ENSG00000125730,Gene Expression
+TAM-MG pro-infl I,VSIG4,ENSG00000155659,Gene Expression
+TAM-MG pro-infl I,FCGR3A,ENSG00000203747,Gene Expression
+TAM-MG pro-infl I,CCL3L3,ENSG00000276085,Gene Expression
+TAM-MG pro-infl I,MS4A7,ENSG00000166927,Gene Expression
+TAM-MG pro-infl I,CCL4,ENSG00000275302,Gene Expression
+TAM-MG pro-infl I,PSAP,ENSG00000197746,Gene Expression
+TAM-MG pro-infl I,FCGR1A,ENSG00000150337,Gene Expression
+TAM-MG pro-infl I,AIF1,ENSG00000204472,Gene Expression
+TAM-MG pro-infl I,SAT1,ENSG00000130066,Gene Expression
+TAM-MG pro-infl I,MAFB,ENSG00000204103,Gene Expression
+TAM-MG pro-infl I,HLA-DQA1,ENSG00000196735,Gene Expression
+TAM-MG pro-infl I,MS4A6A,ENSG00000110077,Gene Expression
+TAM-MG pro-infl I,LILRB4,ENSG00000186818,Gene Expression
+TAM-MG pro-infl I,HLA-DMB,ENSG00000242574,Gene Expression
+TAM-MG pro-infl I,OLFML3,ENSG00000116774,Gene Expression
+TAM-MG pro-infl I,PLD4,ENSG00000166428,Gene Expression
+TAM-MG pro-infl I,CYBA,ENSG00000051523,Gene Expression
+TAM-MG pro-infl I,LY86,ENSG00000112799,Gene Expression
+TAM-MG pro-infl II,CCL3L3,ENSG00000276085,Gene Expression
+TAM-MG pro-infl II,CCL3,ENSG00000277632,Gene Expression
+TAM-MG pro-infl II,CCL4,ENSG00000275302,Gene Expression
+TAM-MG pro-infl II,CCL4L2,ENSG00000276070,Gene Expression
+TAM-MG pro-infl II,IL1B,ENSG00000125538,Gene Expression
+TAM-MG pro-infl II,CD83,ENSG00000112149,Gene Expression
+TAM-MG pro-infl II,CH25H,ENSG00000138135,Gene Expression
+TAM-MG pro-infl II,NR4A1,ENSG00000123358,Gene Expression
+TAM-MG pro-infl II,KLF2,ENSG00000127528,Gene Expression
+TAM-MG pro-infl II,KLF6,ENSG00000067082,Gene Expression
+TAM-MG pro-infl II,CCL2,ENSG00000108691,Gene Expression
+TAM-MG pro-infl II,DUSP1,ENSG00000120129,Gene Expression
+TAM-MG pro-infl II,ATF3,ENSG00000162772,Gene Expression
+TAM-MG pro-infl II,IER3,ENSG00000137331,Gene Expression
+TAM-MG pro-infl II,PPP1R15A,ENSG00000087074,Gene Expression
+TAM-MG pro-infl II,NR4A2,ENSG00000153234,Gene Expression
+TAM-MG pro-infl II,HSPA1A,ENSG00000204389,Gene Expression
+TAM-MG pro-infl II,REL,ENSG00000162924,Gene Expression
+TAM-MG pro-infl II,NFKBIA,ENSG00000100906,Gene Expression
+TAM-MG pro-infl II,HSP90AA1,ENSG00000080824,Gene Expression
+TAM-MG pro-infl II,OLR1,ENSG00000173391,Gene Expression
+TAM-MG pro-infl II,CXCL8,ENSG00000169429,Gene Expression
+TAM-MG pro-infl II,RGCC,ENSG00000102760,Gene Expression
+TAM-MG pro-infl II,BAG3,ENSG00000151929,Gene Expression
+TAM-MG pro-infl II,FOS,ENSG00000170345,Gene Expression
+TAM-MG pro-infl II,DNAJB1,ENSG00000132002,Gene Expression
+TAM-MG pro-infl II,HSPH1,ENSG00000120694,Gene Expression
+TAM-MG pro-infl II,G0S2,ENSG00000123689,Gene Expression
+TAM-MG pro-infl II,HSPA6,ENSG00000173110,Gene Expression
+TAM-MG pro-infl II,PLAUR,ENSG00000011422,Gene Expression
+TAM-MG pro-infl II,JUN,ENSG00000177606,Gene Expression
+TAM-MG pro-infl II,RASGEF1B,ENSG00000138670,Gene Expression
+TAM-MG pro-infl II,FOSB,ENSG00000125740,Gene Expression
+TAM-MG pro-infl II,PHACTR1,ENSG00000112137,Gene Expression
+TAM-MG pro-infl II,RGS16,ENSG00000143333,Gene Expression
+TAM-MG pro-infl II,SRGN,ENSG00000122862,Gene Expression
+TAM-MG pro-infl II,BHLHE41,ENSG00000123095,Gene Expression
+TAM-MG pro-infl II,RGS1,ENSG00000090104,Gene Expression
+TAM-MG pro-infl II,SGK1,ENSG00000118515,Gene Expression
+TAM-MG pro-infl II,HSPB1,ENSG00000106211,Gene Expression
+TAM-MG pro-infl II,NR4A3,ENSG00000119508,Gene Expression
+TAM-MG pro-infl II,SAT1,ENSG00000130066,Gene Expression
+TAM-MG pro-infl II,LGMN,ENSG00000100600,Gene Expression
+TAM-MG pro-infl II,PLEK,ENSG00000115956,Gene Expression
+TAM-MG pro-infl II,KLF4,ENSG00000136826,Gene Expression
+TAM-MG pro-infl II,MS4A7,ENSG00000166927,Gene Expression
+TAM-MG pro-infl II,HSPD1,ENSG00000144381,Gene Expression
+TAM-MG pro-infl II,ZFP36,ENSG00000128016,Gene Expression
+TAM-MG pro-infl II,RHOB,ENSG00000143878,Gene Expression
+TAM-MG pro-infl II,TREM2,ENSG00000095970,Gene Expression
+TAM-MG prolif,SPP1,ENSG00000118785,Gene Expression
+TAM-MG prolif,HBB,ENSG00000244734,Gene Expression
+TAM-MG prolif,IFI27,ENSG00000165949,Gene Expression
+TAM-MG prolif,S100A8,ENSG00000143546,Gene Expression
+TAM-MG prolif,HBA2,ENSG00000188536,Gene Expression
+TAM-MG prolif,S100A9,ENSG00000163220,Gene Expression
+TAM-MG prolif,FTL,ENSG00000087086,Gene Expression
+TAM-MG prolif,AIF1,ENSG00000204472,Gene Expression
+TAM-MG prolif,S100A11,ENSG00000163191,Gene Expression
+TAM-MG prolif,TMIGD3,ENSG00000121933,Gene Expression
+TAM-MG prolif,FCER1G,ENSG00000158869,Gene Expression
+TAM-MG prolif,HAMP,ENSG00000105697,Gene Expression
+TAM-MG prolif,APOC1,ENSG00000130208,Gene Expression
+TAM-MG prolif,C1QB,ENSG00000173369,Gene Expression
+TAM-MG prolif,CTSL,ENSG00000135047,Gene Expression
+TAM-MG prolif,CSTB,ENSG00000160213,Gene Expression
+TAM-MG prolif,ALOX5AP,ENSG00000132965,Gene Expression
+TAM-MG prolif,TMSB4X,ENSG00000205542,Gene Expression
+TAM-MG prolif,C1QC,ENSG00000159189,Gene Expression
+TAM-MG prolif,VSIG4,ENSG00000155659,Gene Expression
+TAM-MG prolif,C1QA,ENSG00000173372,Gene Expression
+TAM-MG prolif,LGALS1,ENSG00000100097,Gene Expression
+TAM-MG prolif,TUBA1B,ENSG00000123416,Gene Expression
+TAM-MG prolif,CAPG,ENSG00000042493,Gene Expression
+TAM-MG prolif,IFITM3,ENSG00000142089,Gene Expression
+TAM-MG prolif,VAMP8,ENSG00000118640,Gene Expression
+TAM-MG prolif,NUPR1,ENSG00000176046,Gene Expression
+TAM-MG prolif,FCGR3A,ENSG00000203747,Gene Expression
+TAM-MG prolif,CD14,ENSG00000170458,Gene Expression
+TAM-MG prolif,FTH1,ENSG00000167996,Gene Expression
+TAM-MG prolif,TYROBP,ENSG00000011600,Gene Expression
+TAM-MG prolif,LAPTM5,ENSG00000162511,Gene Expression
+TAM-MG prolif,RNASET2,ENSG00000026297,Gene Expression
+TAM-MG prolif,APOE,ENSG00000130203,Gene Expression
+TAM-MG prolif,TREM2,ENSG00000095970,Gene Expression
+TAM-MG prolif,CHCHD7,ENSG00000170791,Gene Expression
+TAM-MG prolif,SPI1,ENSG00000066336,Gene Expression
+TAM-MG prolif,CD68,ENSG00000129226,Gene Expression
+TAM-MG prolif,NPC2,ENSG00000119655,Gene Expression
+TAM-MG prolif,APOC2,ENSG00000234906,Gene Expression
+TAM-MG prolif,TYMP,ENSG00000025708,Gene Expression
+TAM-MG prolif,SCIN,ENSG00000006747,Gene Expression
+TAM-MG prolif,COTL1,ENSG00000103187,Gene Expression
+TAM-MG prolif,C1orf162,ENSG00000143110,Gene Expression
+TAM-MG prolif,GLRX,ENSG00000173221,Gene Expression
+TAM-MG prolif,SERPINA1,ENSG00000197249,Gene Expression
+TAM-MG prolif,LY96,ENSG00000154589,Gene Expression
+TAM-MG prolif,LST1,ENSG00000204482,Gene Expression
+TAM-MG prolif,FPR1,ENSG00000171051,Gene Expression
+cDC1,HLA-DQA1,ENSG00000196735,Gene Expression
+cDC1,HLA-DPB1,ENSG00000223865,Gene Expression
+cDC1,HLA-DRB1,ENSG00000196126,Gene Expression
+cDC1,HLA-DPA1,ENSG00000231389,Gene Expression
+cDC1,HLA-DQB1,ENSG00000179344,Gene Expression
+cDC1,CPVL,ENSG00000106066,Gene Expression
+cDC1,HLA-DRA,ENSG00000204287,Gene Expression
+cDC1,CST3,ENSG00000101439,Gene Expression
+cDC1,FGL2,ENSG00000127951,Gene Expression
+cDC1,CD74,ENSG00000019582,Gene Expression
+cDC1,LYZ,ENSG00000090382,Gene Expression
+cDC1,LGALS2,ENSG00000100079,Gene Expression
+cDC1,IDO1,ENSG00000131203,Gene Expression
+cDC1,LSP1,ENSG00000130592,Gene Expression
+cDC1,IRF8,ENSG00000140968,Gene Expression
+cDC1,CLEC9A,ENSG00000197992,Gene Expression
+cDC1,BASP1,ENSG00000176788,Gene Expression
+cDC1,VMO1,ENSG00000182853,Gene Expression
+cDC1,BIRC3,ENSG00000023445,Gene Expression
+cDC1,C1orf54,ENSG00000118292,Gene Expression
+cDC1,CTSZ,ENSG00000101160,Gene Expression
+cDC1,WDFY4,ENSG00000128815,Gene Expression
+cDC1,S100A10,ENSG00000197747,Gene Expression
+cDC1,RGCC,ENSG00000102760,Gene Expression
+cDC1,HLA-DMA,ENSG00000204257,Gene Expression
+cDC1,DNASE1L3,ENSG00000163687,Gene Expression
+cDC1,C1orf162,ENSG00000143110,Gene Expression
+cDC1,LCP1,ENSG00000136167,Gene Expression
+cDC1,CCND1,ENSG00000110092,Gene Expression
+cDC1,LAMP3,ENSG00000078081,Gene Expression
+cDC1,MPEG1,ENSG00000197629,Gene Expression
+cDC1,UCP2,ENSG00000175567,Gene Expression
+cDC1,RGS10,ENSG00000148908,Gene Expression
+cDC1,DAPP1,ENSG00000070190,Gene Expression
+cDC1,SERPINF1,ENSG00000132386,Gene Expression
+cDC1,COTL1,ENSG00000103187,Gene Expression
+cDC1,SERPINB1,ENSG00000021355,Gene Expression
+cDC1,SAMHD1,ENSG00000101347,Gene Expression
+cDC1,NABP1,ENSG00000173559,Gene Expression
+cDC1,CLNK,ENSG00000109684,Gene Expression
+cDC1,SHTN1,ENSG00000187164,Gene Expression
+cDC1,SPI1,ENSG00000066336,Gene Expression
+cDC1,SPINT2,ENSG00000167642,Gene Expression
+cDC1,MT-CO1,ENSG00000198804,Gene Expression
+cDC1,NET1,ENSG00000173848,Gene Expression
+cDC1,MT-ATP6,ENSG00000198899,Gene Expression
+cDC1,HLA-B,ENSG00000234745,Gene Expression
+cDC1,RNASE6,ENSG00000169413,Gene Expression
+cDC1,SLAMF7,ENSG00000026751,Gene Expression
+cDC1,EFHD2,ENSG00000142634,Gene Expression
+cDC2,HLA-DQA1,ENSG00000196735,Gene Expression
+cDC2,HLA-DPB1,ENSG00000223865,Gene Expression
+cDC2,FCER1A,ENSG00000179639,Gene Expression
+cDC2,HLA-DRA,ENSG00000204287,Gene Expression
+cDC2,HLA-DRB1,ENSG00000196126,Gene Expression
+cDC2,AREG,ENSG00000109321,Gene Expression
+cDC2,HLA-DQB1,ENSG00000179344,Gene Expression
+cDC2,HLA-DPA1,ENSG00000231389,Gene Expression
+cDC2,LYZ,ENSG00000090382,Gene Expression
+cDC2,C15orf48,ENSG00000166920,Gene Expression
+cDC2,CD74,ENSG00000019582,Gene Expression
+cDC2,GPR183,ENSG00000169508,Gene Expression
+cDC2,MS4A6A,ENSG00000110077,Gene Expression
+cDC2,C1orf162,ENSG00000143110,Gene Expression
+cDC2,LST1,ENSG00000204482,Gene Expression
+cDC2,HLA-DMA,ENSG00000204257,Gene Expression
+cDC2,CLEC10A,ENSG00000132514,Gene Expression
+cDC2,HERPUD1,ENSG00000051108,Gene Expression
+cDC2,COTL1,ENSG00000103187,Gene Expression
+cDC2,JAML,ENSG00000160593,Gene Expression
+cDC2,MNDA,ENSG00000163563,Gene Expression
+cDC2,RGS2,ENSG00000116741,Gene Expression
+cDC2,FCGR2B,ENSG00000072694,Gene Expression
+cDC2,CTSH,ENSG00000103811,Gene Expression
+cDC2,PLAC8,ENSG00000145287,Gene Expression
+cDC2,S100A4,ENSG00000196154,Gene Expression
+cDC2,PKIB,ENSG00000135549,Gene Expression
+cDC2,LSP1,ENSG00000130592,Gene Expression
+cDC2,HLA-DRB5,ENSG00000198502,Gene Expression
+cDC2,CD1C,ENSG00000158481,Gene Expression
+cDC2,HLA-DQA2,ENSG00000237541,Gene Expression
+cDC2,RNASE6,ENSG00000169413,Gene Expression
+cDC2,SRGN,ENSG00000122862,Gene Expression
+cDC2,FGL2,ENSG00000127951,Gene Expression
+cDC2,SPINT2,ENSG00000167642,Gene Expression
+cDC2,CXCR4,ENSG00000121966,Gene Expression
+cDC2,CYBA,ENSG00000051523,Gene Expression
+cDC2,HLA-DMB,ENSG00000242574,Gene Expression
+cDC2,SAMHD1,ENSG00000101347,Gene Expression
+cDC2,RGS1,ENSG00000090104,Gene Expression
+cDC2,AIF1,ENSG00000204472,Gene Expression
+cDC2,TYMP,ENSG00000025708,Gene Expression
+cDC2,TYROBP,ENSG00000011600,Gene Expression
+cDC2,LITAF,ENSG00000189067,Gene Expression
+cDC2,IFITM2,ENSG00000185201,Gene Expression
+cDC2,SPI1,ENSG00000066336,Gene Expression
+cDC2,CST3,ENSG00000101439,Gene Expression
+cDC2,CEBPD,ENSG00000221869,Gene Expression
+cDC2,VAMP8,ENSG00000118640,Gene Expression
+DC1,HLA-DPB1,ENSG00000223865,Gene Expression
+DC1,HLA-DPA1,ENSG00000231389,Gene Expression
+DC1,HLA-DQA1,ENSG00000196735,Gene Expression
+DC1,HLA-DQB1,ENSG00000179344,Gene Expression
+DC1,CPVL,ENSG00000106066,Gene Expression
+DC1,HLA-DRB1,ENSG00000196126,Gene Expression
+DC1,HLA-DRA,ENSG00000204287,Gene Expression
+DC1,CST3,ENSG00000101439,Gene Expression
+DC1,CD74,ENSG00000019582,Gene Expression
+DC1,HLA-DRB5,ENSG00000198502,Gene Expression
+DC1,LSP1,ENSG00000130592,Gene Expression
+DC1,LGALS2,ENSG00000100079,Gene Expression
+DC1,IRF8,ENSG00000140968,Gene Expression
+DC1,C1orf54,ENSG00000118292,Gene Expression
+DC1,LYZ,ENSG00000090382,Gene Expression
+DC1,CLEC9A,ENSG00000197992,Gene Expression
+DC1,DNASE1L3,ENSG00000163687,Gene Expression
+DC1,TMSB4X,ENSG00000205542,Gene Expression
+DC1,HLA-DQA2,ENSG00000237541,Gene Expression
+DC1,RGCC,ENSG00000102760,Gene Expression
+DC1,IDO1,ENSG00000131203,Gene Expression
+DC1,C1orf162,ENSG00000143110,Gene Expression
+DC1,UCP2,ENSG00000175567,Gene Expression
+DC1,RGS10,ENSG00000148908,Gene Expression
+DC1,S100A10,ENSG00000197747,Gene Expression
+DC1,FGL2,ENSG00000127951,Gene Expression
+DC1,HLA-DMA,ENSG00000204257,Gene Expression
+DC1,ID2,ENSG00000115738,Gene Expression
+DC1,HLA-C,ENSG00000204525,Gene Expression
+DC1,COTL1,ENSG00000103187,Gene Expression
+DC1,HLA-B,ENSG00000234745,Gene Expression
+DC1,C15orf48,ENSG00000166920,Gene Expression
+DC1,TAP1,ENSG00000168394,Gene Expression
+DC1,DUSP2,ENSG00000158050,Gene Expression
+DC1,RP11-1143G9.4,ENSG00000257764,Gene Expression
+DC1,VMO1,ENSG00000182853,Gene Expression
+DC1,SPI1,ENSG00000066336,Gene Expression
+DC1,TACSTD2,ENSG00000184292,Gene Expression
+DC1,CD48,ENSG00000117091,Gene Expression
+DC1,HLA-DMB,ENSG00000242574,Gene Expression
+DC1,CCND1,ENSG00000110092,Gene Expression
+DC1,SPINT2,ENSG00000167642,Gene Expression
+DC1,BIRC3,ENSG00000023445,Gene Expression
+DC1,WDFY4,ENSG00000128815,Gene Expression
+DC1,PTPRE,ENSG00000132334,Gene Expression
+DC1,SERPINB1,ENSG00000021355,Gene Expression
+DC1,LIMD2,ENSG00000136490,Gene Expression
+DC1,BASP1,ENSG00000176788,Gene Expression
+DC1,MPEG1,ENSG00000197629,Gene Expression
+DC1,SERPINF1,ENSG00000132386,Gene Expression
+DC2,CCL19,ENSG00000172724,Gene Expression
+DC2,BIRC3,ENSG00000023445,Gene Expression
+DC2,CCR7,ENSG00000126353,Gene Expression
+DC2,IDO1,ENSG00000131203,Gene Expression
+DC2,LSP1,ENSG00000130592,Gene Expression
+DC2,HLA-DQA1,ENSG00000196735,Gene Expression
+DC2,HLA-DPB1,ENSG00000223865,Gene Expression
+DC2,HLA-DPA1,ENSG00000231389,Gene Expression
+DC2,MARCKSL1,ENSG00000175130,Gene Expression
+DC2,HLA-DRA,ENSG00000204287,Gene Expression
+DC2,HLA-DQB1,ENSG00000179344,Gene Expression
+DC2,ID2,ENSG00000115738,Gene Expression
+DC2,HLA-DRB1,ENSG00000196126,Gene Expression
+DC2,LAMP3,ENSG00000078081,Gene Expression
+DC2,CD74,ENSG00000019582,Gene Expression
+DC2,EBI3,ENSG00000105246,Gene Expression
+DC2,G0S2,ENSG00000123689,Gene Expression
+DC2,CCL22,ENSG00000102962,Gene Expression
+DC2,BASP1,ENSG00000176788,Gene Expression
+DC2,CD83,ENSG00000112149,Gene Expression
+DC2,SERPINB1,ENSG00000021355,Gene Expression
+DC2,HLA-DRB5,ENSG00000198502,Gene Expression
+DC2,TYMP,ENSG00000025708,Gene Expression
+DC2,PNRC1,ENSG00000146278,Gene Expression
+DC2,BCL2A1,ENSG00000140379,Gene Expression
+DC2,HLA-C,ENSG00000204525,Gene Expression
+DC2,BTG1,ENSG00000133639,Gene Expression
+DC2,B2M,ENSG00000166710,Gene Expression
+DC2,EPSTI1,ENSG00000133106,Gene Expression
+DC2,HLA-B,ENSG00000234745,Gene Expression
+DC2,LGALS2,ENSG00000100079,Gene Expression
+DC2,IFI27,ENSG00000165949,Gene Expression
+DC2,CXCL9,ENSG00000138755,Gene Expression
+DC2,HLA-DQA2,ENSG00000237541,Gene Expression
+DC2,NFKBIA,ENSG00000100906,Gene Expression
+DC2,TMSB4X,ENSG00000205542,Gene Expression
+DC2,CTSH,ENSG00000103811,Gene Expression
+DC2,CSF2RA,ENSG00000198223,Gene Expression
+DC2,MGLL,ENSG00000074416,Gene Expression
+DC2,TRAF1,ENSG00000056558,Gene Expression
+DC2,SYNGR2,ENSG00000108639,Gene Expression
+DC2,SAMSN1,ENSG00000155307,Gene Expression
+DC2,IL4I1,ENSG00000104951,Gene Expression
+DC2,TUBA1C,ENSG00000167553,Gene Expression
+DC2,KIF2A,ENSG00000068796,Gene Expression
+DC2,TMEM176A,ENSG00000002933,Gene Expression
+DC2,TFPI2,ENSG00000105825,Gene Expression
+DC2,TUBB6,ENSG00000176014,Gene Expression
+DC2,DUSP4,ENSG00000120875,Gene Expression
+DC2,PIM3,ENSG00000198355,Gene Expression
+DC3,GZMB,ENSG00000100453,Gene Expression
+DC3,JCHAIN,ENSG00000132465,Gene Expression
+DC3,PTGDS,ENSG00000107317,Gene Expression
+DC3,PLAC8,ENSG00000145287,Gene Expression
+DC3,IRF7,ENSG00000185507,Gene Expression
+DC3,GPR183,ENSG00000169508,Gene Expression
+DC3,LILRA4,ENSG00000239961,Gene Expression
+DC3,IRF8,ENSG00000140968,Gene Expression
+DC3,CLIC3,ENSG00000169583,Gene Expression
+DC3,PLD4,ENSG00000166428,Gene Expression
+DC3,SERPINF1,ENSG00000132386,Gene Expression
+DC3,C12orf75,ENSG00000235162,Gene Expression
+DC3,LTB,ENSG00000227507,Gene Expression
+DC3,DERL3,ENSG00000099958,Gene Expression
+DC3,SPIB,ENSG00000269404,Gene Expression
+DC3,RGS2,ENSG00000116741,Gene Expression
+DC3,TSPAN13,ENSG00000106537,Gene Expression
+DC3,TPM2,ENSG00000198467,Gene Expression
+DC3,ITM2C,ENSG00000135916,Gene Expression
+DC3,MZB1,ENSG00000170476,Gene Expression
+DC3,MPEG1,ENSG00000197629,Gene Expression
+DC3,CYBA,ENSG00000051523,Gene Expression
+DC3,PTCRA,ENSG00000171611,Gene Expression
+DC3,IL3RA,ENSG00000185291,Gene Expression
+DC3,PLP2,ENSG00000102007,Gene Expression
+DC3,RNASE6,ENSG00000169413,Gene Expression
+DC3,VAMP8,ENSG00000118640,Gene Expression
+DC3,UCP2,ENSG00000175567,Gene Expression
+DC3,SELL,ENSG00000188404,Gene Expression
+DC3,ALOX5AP,ENSG00000132965,Gene Expression
+DC3,UGCG,ENSG00000148154,Gene Expression
+DC3,SMPD3,ENSG00000103056,Gene Expression
+DC3,CD74,ENSG00000019582,Gene Expression
+DC3,MYL12A,ENSG00000101608,Gene Expression
+DC3,BCL11A,ENSG00000119866,Gene Expression
+DC3,DNASE1L3,ENSG00000163687,Gene Expression
+DC3,IGKC,ENSG00000211592,Gene Expression
+DC3,HLA-DQB1,ENSG00000179344,Gene Expression
+DC3,LINC00996,ENSG00000242258,Gene Expression
+DC3,HERPUD1,ENSG00000051108,Gene Expression
+DC3,AREG,ENSG00000109321,Gene Expression
+DC3,HLA-DPB1,ENSG00000223865,Gene Expression
+DC3,TCF4,ENSG00000196628,Gene Expression
+DC3,HLA-DQA1,ENSG00000196735,Gene Expression
+DC3,CXCR3,ENSG00000186810,Gene Expression
+DC3,IRF4,ENSG00000137265,Gene Expression
+DC3,JAML,ENSG00000160593,Gene Expression
+DC3,LSP1,ENSG00000130592,Gene Expression
+DC3,CTSC,ENSG00000109861,Gene Expression
+DC3,ARL4C,ENSG00000188042,Gene Expression
+Mast,HBA2,ENSG00000188536,Gene Expression
+Mast,HBB,ENSG00000244734,Gene Expression
+Mast,TPSAB1,ENSG00000172236,Gene Expression
+Mast,TPSB2,ENSG00000197253,Gene Expression
+Mast,HPGD,ENSG00000164120,Gene Expression
+Mast,CPA3,ENSG00000163751,Gene Expression
+Mast,HPGDS,ENSG00000163106,Gene Expression
+Mast,MS4A2,ENSG00000149534,Gene Expression
+Mast,VWA5A,ENSG00000110002,Gene Expression
+Mast,ANXA1,ENSG00000135046,Gene Expression
+Mast,AREG,ENSG00000109321,Gene Expression
+Mast,SLC18A2,ENSG00000165646,Gene Expression
+Mast,CD69,ENSG00000110848,Gene Expression
+Mast,RHEX,ENSG00000263961,Gene Expression
+Mast,GATA2,ENSG00000179348,Gene Expression
+Mast,SAMSN1,ENSG00000155307,Gene Expression
+Mast,S100A4,ENSG00000196154,Gene Expression
+Mast,HDC,ENSG00000140287,Gene Expression
+Mast,LTC4S,ENSG00000213316,Gene Expression
+Mast,CAPG,ENSG00000042493,Gene Expression
+Mast,KIT,ENSG00000157404,Gene Expression
+Mast,RGS13,ENSG00000127074,Gene Expression
+Mast,CD52,ENSG00000169442,Gene Expression
+Mast,RAC2,ENSG00000128340,Gene Expression
+Mast,IL1RL1,ENSG00000115602,Gene Expression
+Mast,IFITM2,ENSG00000185201,Gene Expression
+Mast,ALOX5AP,ENSG00000132965,Gene Expression
+Mast,S100A6,ENSG00000197956,Gene Expression
+Mast,MAOB,ENSG00000069535,Gene Expression
+Mast,SRGN,ENSG00000122862,Gene Expression
+Mast,GRAP2,ENSG00000100351,Gene Expression
+Mast,ALDH1A1,ENSG00000165092,Gene Expression
+Mast,FCER1G,ENSG00000158869,Gene Expression
+Mast,ARHGDIB,ENSG00000111348,Gene Expression
+Mast,FXYD5,ENSG00000089327,Gene Expression
+Mast,LAT,ENSG00000213658,Gene Expression
+Mast,BTK,ENSG00000010671,Gene Expression
+Mast,RGS2,ENSG00000116741,Gene Expression
+Mast,ACSL4,ENSG00000068366,Gene Expression
+Mast,SLC45A3,ENSG00000158715,Gene Expression
+Mast,SH3BGRL3,ENSG00000142669,Gene Expression
+Mast,CD9,ENSG00000010278,Gene Expression
+Mast,CAVIN2,ENSG00000168497,Gene Expression
+Mast,FOXP1,ENSG00000114861,Gene Expression
+Mast,VIM,ENSG00000026025,Gene Expression
+Mast,GMPR,ENSG00000137198,Gene Expression
+Mast,ALOX5,ENSG00000012779,Gene Expression
+Mast,BACE2,ENSG00000182240,Gene Expression
+Mast,FCER1A,ENSG00000179639,Gene Expression
+Mast,BHLHE40,ENSG00000134107,Gene Expression
+CD8 cytotoxic,CCL5,ENSG00000271503,Gene Expression
+CD8 cytotoxic,IL32,ENSG00000008517,Gene Expression
+CD8 cytotoxic,GZMK,ENSG00000113088,Gene Expression
+CD8 cytotoxic,GZMA,ENSG00000145649,Gene Expression
+CD8 cytotoxic,NKG7,ENSG00000105374,Gene Expression
+CD8 cytotoxic,CD52,ENSG00000169442,Gene Expression
+CD8 cytotoxic,CD3E,ENSG00000198851,Gene Expression
+CD8 cytotoxic,IFITM1,ENSG00000185885,Gene Expression
+CD8 cytotoxic,PTPRCAP,ENSG00000213402,Gene Expression
+CD8 cytotoxic,CD8A,ENSG00000153563,Gene Expression
+CD8 cytotoxic,CST7,ENSG00000077984,Gene Expression
+CD8 cytotoxic,CD3D,ENSG00000167286,Gene Expression
+CD8 cytotoxic,GZMH,ENSG00000100450,Gene Expression
+CD8 cytotoxic,CD2,ENSG00000116824,Gene Expression
+CD8 cytotoxic,CTSW,ENSG00000172543,Gene Expression
+CD8 cytotoxic,MT-ATP8,ENSG00000228253,Gene Expression
+CD8 cytotoxic,CRIP1,ENSG00000213145,Gene Expression
+CD8 cytotoxic,RAC2,ENSG00000128340,Gene Expression
+CD8 cytotoxic,PTPRC,ENSG00000081237,Gene Expression
+CD8 cytotoxic,CD8B,ENSG00000172116,Gene Expression
+CD8 cytotoxic,HCST,ENSG00000126264,Gene Expression
+CD8 cytotoxic,TRAC,ENSG00000277734,Gene Expression
+CD8 cytotoxic,TRBC2,ENSG00000211772,Gene Expression
+CD8 cytotoxic,CXCR4,ENSG00000121966,Gene Expression
+CD8 cytotoxic,PLAAT4,ENSG00000133321,Gene Expression
+CD8 cytotoxic,DUSP2,ENSG00000158050,Gene Expression
+CD8 cytotoxic,SH3BGRL3,ENSG00000142669,Gene Expression
+CD8 cytotoxic,TXNIP,ENSG00000265972,Gene Expression
+CD8 cytotoxic,CORO1A,ENSG00000102879,Gene Expression
+CD8 cytotoxic,MYL12A,ENSG00000101608,Gene Expression
+CD8 cytotoxic,HSPA1B,ENSG00000204388,Gene Expression
+CD8 cytotoxic,CD3G,ENSG00000160654,Gene Expression
+CD8 cytotoxic,TRBC1,ENSG00000211751,Gene Expression
+CD8 cytotoxic,ZFP36L2,ENSG00000152518,Gene Expression
+CD8 cytotoxic,ARHGDIB,ENSG00000111348,Gene Expression
+CD8 cytotoxic,BTG1,ENSG00000133639,Gene Expression
+CD8 cytotoxic,TUBA4A,ENSG00000127824,Gene Expression
+CD8 cytotoxic,HLA-B,ENSG00000234745,Gene Expression
+CD8 cytotoxic,HLA-C,ENSG00000204525,Gene Expression
+CD8 cytotoxic,LCP1,ENSG00000136167,Gene Expression
+CD8 cytotoxic,GZMM,ENSG00000197540,Gene Expression
+CD8 cytotoxic,LSP1,ENSG00000130592,Gene Expression
+CD8 cytotoxic,GIMAP7,ENSG00000179144,Gene Expression
+CD8 cytotoxic,S100A4,ENSG00000196154,Gene Expression
+CD8 cytotoxic,APOBEC3G,ENSG00000239713,Gene Expression
+CD8 cytotoxic,CD7,ENSG00000173762,Gene Expression
+CD8 cytotoxic,CYTIP,ENSG00000115165,Gene Expression
+CD8 cytotoxic,ISG20,ENSG00000172183,Gene Expression
+CD8 cytotoxic,B2M,ENSG00000166710,Gene Expression
+CD8 cytotoxic,HLA-E,ENSG00000204592,Gene Expression
+CD8 EM,IL7R,ENSG00000168685,Gene Expression
+CD8 EM,ZFP36L2,ENSG00000152518,Gene Expression
+CD8 EM,MT-ATP8,ENSG00000228253,Gene Expression
+CD8 EM,IL32,ENSG00000008517,Gene Expression
+CD8 EM,BTG1,ENSG00000133639,Gene Expression
+CD8 EM,CXCR4,ENSG00000121966,Gene Expression
+CD8 EM,IFITM1,ENSG00000185885,Gene Expression
+CD8 EM,CD52,ENSG00000169442,Gene Expression
+CD8 EM,TSC22D3,ENSG00000157514,Gene Expression
+CD8 EM,CD69,ENSG00000110848,Gene Expression
+CD8 EM,CD3E,ENSG00000198851,Gene Expression
+CD8 EM,LTB,ENSG00000227507,Gene Expression
+CD8 EM,DUSP2,ENSG00000158050,Gene Expression
+CD8 EM,CD3D,ENSG00000167286,Gene Expression
+CD8 EM,JUNB,ENSG00000171223,Gene Expression
+CD8 EM,TNFAIP3,ENSG00000118503,Gene Expression
+CD8 EM,CRIP1,ENSG00000213145,Gene Expression
+CD8 EM,CCL5,ENSG00000271503,Gene Expression
+CD8 EM,CD2,ENSG00000116824,Gene Expression
+CD8 EM,GZMK,ENSG00000113088,Gene Expression
+CD8 EM,PTPRCAP,ENSG00000213402,Gene Expression
+CD8 EM,GZMA,ENSG00000145649,Gene Expression
+CD8 EM,CYTIP,ENSG00000115165,Gene Expression
+CD8 EM,KLRB1,ENSG00000111796,Gene Expression
+CD8 EM,S100A4,ENSG00000196154,Gene Expression
+CD8 EM,TRAC,ENSG00000277734,Gene Expression
+CD8 EM,FXYD5,ENSG00000089327,Gene Expression
+CD8 EM,RAC2,ENSG00000128340,Gene Expression
+CD8 EM,TXNIP,ENSG00000265972,Gene Expression
+CD8 EM,CREM,ENSG00000095794,Gene Expression
+CD8 EM,TRBC2,ENSG00000211772,Gene Expression
+CD8 EM,ARHGDIB,ENSG00000111348,Gene Expression
+CD8 EM,CD8A,ENSG00000153563,Gene Expression
+CD8 EM,TUBA4A,ENSG00000127824,Gene Expression
+CD8 EM,HLA-B,ENSG00000234745,Gene Expression
+CD8 EM,TRBC1,ENSG00000211751,Gene Expression
+CD8 EM,PTPRC,ENSG00000081237,Gene Expression
+CD8 EM,ISG20,ENSG00000172183,Gene Expression
+CD8 EM,CD7,ENSG00000173762,Gene Expression
+CD8 EM,MYL12A,ENSG00000101608,Gene Expression
+CD8 EM,IFITM2,ENSG00000185201,Gene Expression
+CD8 EM,LCK,ENSG00000182866,Gene Expression
+CD8 EM,CST7,ENSG00000077984,Gene Expression
+CD8 EM,CD48,ENSG00000117091,Gene Expression
+CD8 EM,CORO1A,ENSG00000102879,Gene Expression
+CD8 EM,STK17B,ENSG00000081320,Gene Expression
+CD8 EM,DNAJB1,ENSG00000132002,Gene Expression
+CD8 EM,DDIT4,ENSG00000168209,Gene Expression
+CD8 EM,CD3G,ENSG00000160654,Gene Expression
+CD8 EM,SPOCK2,ENSG00000107742,Gene Expression
+CD8 NK sig,GNLY,ENSG00000115523,Gene Expression
+CD8 NK sig,NKG7,ENSG00000105374,Gene Expression
+CD8 NK sig,GZMB,ENSG00000100453,Gene Expression
+CD8 NK sig,PRF1,ENSG00000180644,Gene Expression
+CD8 NK sig,CST7,ENSG00000077984,Gene Expression
+CD8 NK sig,KLRD1,ENSG00000134539,Gene Expression
+CD8 NK sig,FGFBP2,ENSG00000137441,Gene Expression
+CD8 NK sig,CCL5,ENSG00000271503,Gene Expression
+CD8 NK sig,CTSW,ENSG00000172543,Gene Expression
+CD8 NK sig,GZMH,ENSG00000100450,Gene Expression
+CD8 NK sig,KLRB1,ENSG00000111796,Gene Expression
+CD8 NK sig,GZMA,ENSG00000145649,Gene Expression
+CD8 NK sig,CD7,ENSG00000173762,Gene Expression
+CD8 NK sig,IFITM2,ENSG00000185201,Gene Expression
+CD8 NK sig,CD247,ENSG00000198821,Gene Expression
+CD8 NK sig,IFITM1,ENSG00000185885,Gene Expression
+CD8 NK sig,SPON2,ENSG00000159674,Gene Expression
+CD8 NK sig,CD52,ENSG00000169442,Gene Expression
+CD8 NK sig,IL32,ENSG00000008517,Gene Expression
+CD8 NK sig,S100A4,ENSG00000196154,Gene Expression
+CD8 NK sig,HCST,ENSG00000126264,Gene Expression
+CD8 NK sig,KLRF1,ENSG00000150045,Gene Expression
+CD8 NK sig,GZMM,ENSG00000197540,Gene Expression
+CD8 NK sig,DUSP2,ENSG00000158050,Gene Expression
+CD8 NK sig,MYL12A,ENSG00000101608,Gene Expression
+CD8 NK sig,CMC1,ENSG00000187118,Gene Expression
+CD8 NK sig,RAC2,ENSG00000128340,Gene Expression
+CD8 NK sig,HLA-C,ENSG00000204525,Gene Expression
+CD8 NK sig,CLIC3,ENSG00000169583,Gene Expression
+CD8 NK sig,PTPRC,ENSG00000081237,Gene Expression
+CD8 NK sig,MT-ATP8,ENSG00000228253,Gene Expression
+CD8 NK sig,TXNIP,ENSG00000265972,Gene Expression
+CD8 NK sig,TSC22D3,ENSG00000157514,Gene Expression
+CD8 NK sig,HLA-B,ENSG00000234745,Gene Expression
+CD8 NK sig,PLAC8,ENSG00000145287,Gene Expression
+CD8 NK sig,BTG1,ENSG00000133639,Gene Expression
+CD8 NK sig,CD3E,ENSG00000198851,Gene Expression
+CD8 NK sig,TRDC,ENSG00000211829,Gene Expression
+CD8 NK sig,HLA-E,ENSG00000204592,Gene Expression
+CD8 NK sig,IL7R,ENSG00000168685,Gene Expression
+CD8 NK sig,CCL4,ENSG00000275302,Gene Expression
+CD8 NK sig,TRBC1,ENSG00000211751,Gene Expression
+CD8 NK sig,CCND3,ENSG00000112576,Gene Expression
+CD8 NK sig,CD8A,ENSG00000153563,Gene Expression
+CD8 NK sig,ZFP36L2,ENSG00000152518,Gene Expression
+CD8 NK sig,B2M,ENSG00000166710,Gene Expression
+CD8 NK sig,AREG,ENSG00000109321,Gene Expression
+CD8 NK sig,CORO1A,ENSG00000102879,Gene Expression
+CD8 NK sig,IL2RG,ENSG00000147168,Gene Expression
+CD8 NK sig,BIN2,ENSG00000110934,Gene Expression
+CD4 rest,LTB,ENSG00000227507,Gene Expression
+CD4 rest,CD52,ENSG00000169442,Gene Expression
+CD4 rest,IL32,ENSG00000008517,Gene Expression
+CD4 rest,KLRB1,ENSG00000111796,Gene Expression
+CD4 rest,IL7R,ENSG00000168685,Gene Expression
+CD4 rest,S100A4,ENSG00000196154,Gene Expression
+CD4 rest,TRAC,ENSG00000277734,Gene Expression
+CD4 rest,CD2,ENSG00000116824,Gene Expression
+CD4 rest,CD3D,ENSG00000167286,Gene Expression
+CD4 rest,CD3E,ENSG00000198851,Gene Expression
+CD4 rest,TRBC2,ENSG00000211772,Gene Expression
+CD4 rest,MYL12A,ENSG00000101608,Gene Expression
+CD4 rest,TRBC1,ENSG00000211751,Gene Expression
+CD4 rest,IFITM1,ENSG00000185885,Gene Expression
+CD4 rest,FXYD5,ENSG00000089327,Gene Expression
+CD4 rest,TXNIP,ENSG00000265972,Gene Expression
+CD4 rest,RAC2,ENSG00000128340,Gene Expression
+CD4 rest,IFITM2,ENSG00000185201,Gene Expression
+CD4 rest,GZMA,ENSG00000145649,Gene Expression
+CD4 rest,GIMAP7,ENSG00000179144,Gene Expression
+CD4 rest,CD48,ENSG00000117091,Gene Expression
+CD4 rest,ARHGDIB,ENSG00000111348,Gene Expression
+CD4 rest,SH3BGRL3,ENSG00000142669,Gene Expression
+CD4 rest,CORO1A,ENSG00000102879,Gene Expression
+CD4 rest,CD7,ENSG00000173762,Gene Expression
+CD4 rest,CD69,ENSG00000110848,Gene Expression
+CD4 rest,CRIP1,ENSG00000213145,Gene Expression
+CD4 rest,IL2RG,ENSG00000147168,Gene Expression
+CD4 rest,B2M,ENSG00000166710,Gene Expression
+CD4 rest,HCST,ENSG00000126264,Gene Expression
+CD4 rest,CXCR4,ENSG00000121966,Gene Expression
+CD4 rest,PTPRC,ENSG00000081237,Gene Expression
+CD4 rest,HLA-C,ENSG00000204525,Gene Expression
+CD4 rest,GMFG,ENSG00000130755,Gene Expression
+CD4 rest,CD3G,ENSG00000160654,Gene Expression
+CD4 rest,PLAAT4,ENSG00000133321,Gene Expression
+CD4 rest,LCK,ENSG00000182866,Gene Expression
+CD4 rest,ISG20,ENSG00000172183,Gene Expression
+CD4 rest,MT-ATP8,ENSG00000228253,Gene Expression
+CD4 rest,SPOCK2,ENSG00000107742,Gene Expression
+CD4 rest,PTPRCAP,ENSG00000213402,Gene Expression
+CD4 rest,BTG1,ENSG00000133639,Gene Expression
+CD4 rest,LY6E,ENSG00000160932,Gene Expression
+CD4 rest,CYTIP,ENSG00000115165,Gene Expression
+CD4 rest,HLA-B,ENSG00000234745,Gene Expression
+CD4 rest,LIMD2,ENSG00000136490,Gene Expression
+CD4 rest,PLP2,ENSG00000102007,Gene Expression
+CD4 rest,LSP1,ENSG00000130592,Gene Expression
+CD4 rest,ACAP1,ENSG00000072818,Gene Expression
+CD4 rest,TSC22D3,ENSG00000157514,Gene Expression
+CD4 INF,LTB,ENSG00000227507,Gene Expression
+CD4 INF,TRAC,ENSG00000277734,Gene Expression
+CD4 INF,CD52,ENSG00000169442,Gene Expression
+CD4 INF,IL32,ENSG00000008517,Gene Expression
+CD4 INF,CD69,ENSG00000110848,Gene Expression
+CD4 INF,S100A4,ENSG00000196154,Gene Expression
+CD4 INF,CD2,ENSG00000116824,Gene Expression
+CD4 INF,CD3D,ENSG00000167286,Gene Expression
+CD4 INF,KLRB1,ENSG00000111796,Gene Expression
+CD4 INF,TRBC1,ENSG00000211751,Gene Expression
+CD4 INF,CXCR4,ENSG00000121966,Gene Expression
+CD4 INF,TRBC2,ENSG00000211772,Gene Expression
+CD4 INF,ISG15,ENSG00000187608,Gene Expression
+CD4 INF,MYL12A,ENSG00000101608,Gene Expression
+CD4 INF,ISG20,ENSG00000172183,Gene Expression
+CD4 INF,CD48,ENSG00000117091,Gene Expression
+CD4 INF,CORO1A,ENSG00000102879,Gene Expression
+CD4 INF,IFITM2,ENSG00000185201,Gene Expression
+CD4 INF,JUNB,ENSG00000171223,Gene Expression
+CD4 INF,GZMA,ENSG00000145649,Gene Expression
+CD4 INF,LY6E,ENSG00000160932,Gene Expression
+CD4 INF,IL7R,ENSG00000168685,Gene Expression
+CD4 INF,B2M,ENSG00000166710,Gene Expression
+CD4 INF,FXYD5,ENSG00000089327,Gene Expression
+CD4 INF,PLAAT4,ENSG00000133321,Gene Expression
+CD4 INF,CD3E,ENSG00000198851,Gene Expression
+CD4 INF,BTG1,ENSG00000133639,Gene Expression
+CD4 INF,HLA-C,ENSG00000204525,Gene Expression
+CD4 INF,GIMAP7,ENSG00000179144,Gene Expression
+CD4 INF,IL2RG,ENSG00000147168,Gene Expression
+CD4 INF,RAC2,ENSG00000128340,Gene Expression
+CD4 INF,ARHGDIB,ENSG00000111348,Gene Expression
+CD4 INF,LCK,ENSG00000182866,Gene Expression
+CD4 INF,SH3BGRL3,ENSG00000142669,Gene Expression
+CD4 INF,HCST,ENSG00000126264,Gene Expression
+CD4 INF,GZMK,ENSG00000113088,Gene Expression
+CD4 INF,GMFG,ENSG00000130755,Gene Expression
+CD4 INF,HLA-B,ENSG00000234745,Gene Expression
+CD4 INF,DUSP2,ENSG00000158050,Gene Expression
+CD4 INF,LIMD2,ENSG00000136490,Gene Expression
+CD4 INF,ACAP1,ENSG00000072818,Gene Expression
+CD4 INF,TMSB4X,ENSG00000205542,Gene Expression
+CD4 INF,ANXA1,ENSG00000135046,Gene Expression
+CD4 INF,CD3G,ENSG00000160654,Gene Expression
+CD4 INF,RPS4Y1,ENSG00000129824,Gene Expression
+CD4 INF,CCL5,ENSG00000271503,Gene Expression
+CD4 INF,TNFSF10,ENSG00000121858,Gene Expression
+CD4 INF,CD7,ENSG00000173762,Gene Expression
+CD4 INF,LSP1,ENSG00000130592,Gene Expression
+CD4 INF,GIMAP4,ENSG00000133574,Gene Expression
+Stress sig,CCL5,ENSG00000271503,Gene Expression
+Stress sig,IFITM1,ENSG00000185885,Gene Expression
+Stress sig,IL7R,ENSG00000168685,Gene Expression
+Stress sig,GZMK,ENSG00000113088,Gene Expression
+Stress sig,GZMA,ENSG00000145649,Gene Expression
+Stress sig,IL32,ENSG00000008517,Gene Expression
+Stress sig,CD3E,ENSG00000198851,Gene Expression
+Stress sig,NKG7,ENSG00000105374,Gene Expression
+Stress sig,ZFP36L2,ENSG00000152518,Gene Expression
+Stress sig,CD2,ENSG00000116824,Gene Expression
+Stress sig,PTPRC,ENSG00000081237,Gene Expression
+Stress sig,CD7,ENSG00000173762,Gene Expression
+Stress sig,CD52,ENSG00000169442,Gene Expression
+Stress sig,CST7,ENSG00000077984,Gene Expression
+Stress sig,BTG1,ENSG00000133639,Gene Expression
+Stress sig,TNFAIP3,ENSG00000118503,Gene Expression
+Stress sig,CD3D,ENSG00000167286,Gene Expression
+Stress sig,CD69,ENSG00000110848,Gene Expression
+Stress sig,CD8A,ENSG00000153563,Gene Expression
+Stress sig,ISG20,ENSG00000172183,Gene Expression
+Stress sig,RAC2,ENSG00000128340,Gene Expression
+Stress sig,TRBC2,ENSG00000211772,Gene Expression
+Stress sig,CRIP1,ENSG00000213145,Gene Expression
+Stress sig,PTPRCAP,ENSG00000213402,Gene Expression
+Stress sig,CXCR4,ENSG00000121966,Gene Expression
+Stress sig,TSC22D3,ENSG00000157514,Gene Expression
+Stress sig,DUSP2,ENSG00000158050,Gene Expression
+Stress sig,TXNIP,ENSG00000265972,Gene Expression
+Stress sig,GZMH,ENSG00000100450,Gene Expression
+Stress sig,MT-ATP8,ENSG00000228253,Gene Expression
+Stress sig,SH3BGRL3,ENSG00000142669,Gene Expression
+Stress sig,GZMB,ENSG00000100453,Gene Expression
+Stress sig,CD3G,ENSG00000160654,Gene Expression
+Stress sig,TRAC,ENSG00000277734,Gene Expression
+Stress sig,LCP1,ENSG00000136167,Gene Expression
+Stress sig,MYL12A,ENSG00000101608,Gene Expression
+Stress sig,MYH9,ENSG00000100345,Gene Expression
+Stress sig,CD8B,ENSG00000172116,Gene Expression
+Stress sig,TRBC1,ENSG00000211751,Gene Expression
+Stress sig,IFITM2,ENSG00000185201,Gene Expression
+Stress sig,ARHGDIB,ENSG00000111348,Gene Expression
+Stress sig,LCK,ENSG00000182866,Gene Expression
+Stress sig,CORO1A,ENSG00000102879,Gene Expression
+Stress sig,LTB,ENSG00000227507,Gene Expression
+Stress sig,HLA-E,ENSG00000204592,Gene Expression
+Stress sig,CTSW,ENSG00000172543,Gene Expression
+Stress sig,CD48,ENSG00000117091,Gene Expression
+Stress sig,DNAJB1,ENSG00000132002,Gene Expression
+Stress sig,HSPH1,ENSG00000120694,Gene Expression
+Stress sig,GIMAP7,ENSG00000179144,Gene Expression
+Reg T,IL32,ENSG00000008517,Gene Expression
+Reg T,LTB,ENSG00000227507,Gene Expression
+Reg T,TRAC,ENSG00000277734,Gene Expression
+Reg T,S100A4,ENSG00000196154,Gene Expression
+Reg T,TNFRSF4,ENSG00000186827,Gene Expression
+Reg T,TRBC1,ENSG00000211751,Gene Expression
+Reg T,CD3D,ENSG00000167286,Gene Expression
+Reg T,TRBC2,ENSG00000211772,Gene Expression
+Reg T,TNFRSF18,ENSG00000186891,Gene Expression
+Reg T,CD2,ENSG00000116824,Gene Expression
+Reg T,CD52,ENSG00000169442,Gene Expression
+Reg T,CTLA4,ENSG00000163599,Gene Expression
+Reg T,BATF,ENSG00000156127,Gene Expression
+Reg T,CD7,ENSG00000173762,Gene Expression
+Reg T,CD27,ENSG00000139193,Gene Expression
+Reg T,IL2RG,ENSG00000147168,Gene Expression
+Reg T,TIGIT,ENSG00000181847,Gene Expression
+Reg T,CD3E,ENSG00000198851,Gene Expression
+Reg T,FOXP3,ENSG00000049768,Gene Expression
+Reg T,IL2RA,ENSG00000134460,Gene Expression
+Reg T,SPOCK2,ENSG00000107742,Gene Expression
+Reg T,ISG20,ENSG00000172183,Gene Expression
+Reg T,RAC2,ENSG00000128340,Gene Expression
+Reg T,ARHGDIB,ENSG00000111348,Gene Expression
+Reg T,B2M,ENSG00000166710,Gene Expression
+Reg T,LCK,ENSG00000182866,Gene Expression
+Reg T,CORO1A,ENSG00000102879,Gene Expression
+Reg T,CARD16,ENSG00000204397,Gene Expression
+Reg T,DUSP4,ENSG00000120875,Gene Expression
+Reg T,BIRC3,ENSG00000023445,Gene Expression
+Reg T,HLA-B,ENSG00000234745,Gene Expression
+Reg T,STK17B,ENSG00000081320,Gene Expression
+Reg T,PTPRC,ENSG00000081237,Gene Expression
+Reg T,CTSC,ENSG00000109861,Gene Expression
+Reg T,BTG1,ENSG00000133639,Gene Expression
+Reg T,FXYD5,ENSG00000089327,Gene Expression
+Reg T,ICOS,ENSG00000163600,Gene Expression
+Reg T,HLA-C,ENSG00000204525,Gene Expression
+Reg T,CD3G,ENSG00000160654,Gene Expression
+Reg T,CYTOR,ENSG00000222041,Gene Expression
+Reg T,PIM2,ENSG00000102096,Gene Expression
+Reg T,MYL12A,ENSG00000101608,Gene Expression
+Reg T,AC133644.2,ENSG00000273445,Gene Expression
+Reg T,LSP1,ENSG00000130592,Gene Expression
+Reg T,GBP2,ENSG00000162645,Gene Expression
+Reg T,LAT,ENSG00000213658,Gene Expression
+Reg T,TNFRSF1B,ENSG00000028137,Gene Expression
+Reg T,ICAM3,ENSG00000076662,Gene Expression
+Reg T,PMAIP1,ENSG00000141682,Gene Expression
+Reg T,RNF213,ENSG00000173821,Gene Expression
+Prolif T,NKG7,ENSG00000105374,Gene Expression
+Prolif T,GZMA,ENSG00000145649,Gene Expression
+Prolif T,HMGB2,ENSG00000164104,Gene Expression
+Prolif T,GZMK,ENSG00000113088,Gene Expression
+Prolif T,H4C3,ENSG00000197061,Gene Expression
+Prolif T,CCL5,ENSG00000271503,Gene Expression
+Prolif T,TRAC,ENSG00000277734,Gene Expression
+Prolif T,IL32,ENSG00000008517,Gene Expression
+Prolif T,CD3D,ENSG00000167286,Gene Expression
+Prolif T,CD52,ENSG00000169442,Gene Expression
+Prolif T,CORO1A,ENSG00000102879,Gene Expression
+Prolif T,STMN1,ENSG00000117632,Gene Expression
+Prolif T,CRIP1,ENSG00000213145,Gene Expression
+Prolif T,TRBC2,ENSG00000211772,Gene Expression
+Prolif T,CD2,ENSG00000116824,Gene Expression
+Prolif T,HMGN2,ENSG00000198830,Gene Expression
+Prolif T,RAC2,ENSG00000128340,Gene Expression
+Prolif T,TUBB,ENSG00000196230,Gene Expression
+Prolif T,GZMB,ENSG00000100453,Gene Expression
+Prolif T,TRBC1,ENSG00000211751,Gene Expression
+Prolif T,CST7,ENSG00000077984,Gene Expression
+Prolif T,SH3BGRL3,ENSG00000142669,Gene Expression
+Prolif T,TUBA1B,ENSG00000123416,Gene Expression
+Prolif T,APOBEC3G,ENSG00000239713,Gene Expression
+Prolif T,CD3E,ENSG00000198851,Gene Expression
+Prolif T,CD8A,ENSG00000153563,Gene Expression
+Prolif T,ARHGDIB,ENSG00000111348,Gene Expression
+Prolif T,GZMH,ENSG00000100450,Gene Expression
+Prolif T,XCL2,ENSG00000143185,Gene Expression
+Prolif T,TYMS,ENSG00000176890,Gene Expression
+Prolif T,MKI67,ENSG00000148773,Gene Expression
+Prolif T,MYL12A,ENSG00000101608,Gene Expression
+Prolif T,H2AZ1,ENSG00000164032,Gene Expression
+Prolif T,PCLAF,ENSG00000166803,Gene Expression
+Prolif T,UBE2C,ENSG00000175063,Gene Expression
+Prolif T,CD27,ENSG00000139193,Gene Expression
+Prolif T,COTL1,ENSG00000103187,Gene Expression
+Prolif T,S100A4,ENSG00000196154,Gene Expression
+Prolif T,LAG3,ENSG00000089692,Gene Expression
+Prolif T,CD8B,ENSG00000172116,Gene Expression
+Prolif T,IFNG,ENSG00000111537,Gene Expression
+Prolif T,TUBA4A,ENSG00000127824,Gene Expression
+Prolif T,LCP1,ENSG00000136167,Gene Expression
+Prolif T,SMC4,ENSG00000113810,Gene Expression
+Prolif T,CENPF,ENSG00000117724,Gene Expression
+Prolif T,TOP2A,ENSG00000131747,Gene Expression
+Prolif T,CD3G,ENSG00000160654,Gene Expression
+Prolif T,HLA-C,ENSG00000204525,Gene Expression
+Prolif T,IL2RG,ENSG00000147168,Gene Expression
+Prolif T,PLP2,ENSG00000102007,Gene Expression
+NK,GNLY,ENSG00000115523,Gene Expression
+NK,NKG7,ENSG00000105374,Gene Expression
+NK,CD7,ENSG00000173762,Gene Expression
+NK,KLRB1,ENSG00000111796,Gene Expression
+NK,CCL5,ENSG00000271503,Gene Expression
+NK,CTSW,ENSG00000172543,Gene Expression
+NK,XCL2,ENSG00000143185,Gene Expression
+NK,XCL1,ENSG00000143184,Gene Expression
+NK,TRDC,ENSG00000211829,Gene Expression
+NK,KLRD1,ENSG00000134539,Gene Expression
+NK,KLRC1,ENSG00000134545,Gene Expression
+NK,GZMA,ENSG00000145649,Gene Expression
+NK,IL2RB,ENSG00000100385,Gene Expression
+NK,APOBEC3G,ENSG00000239713,Gene Expression
+NK,IFITM2,ENSG00000185201,Gene Expression
+NK,TNFRSF18,ENSG00000186891,Gene Expression
+NK,KRT81,ENSG00000205426,Gene Expression
+NK,HCST,ENSG00000126264,Gene Expression
+NK,GZMB,ENSG00000100453,Gene Expression
+NK,CD69,ENSG00000110848,Gene Expression
+NK,AREG,ENSG00000109321,Gene Expression
+NK,KRT86,ENSG00000170442,Gene Expression
+NK,IL32,ENSG00000008517,Gene Expression
+NK,CST7,ENSG00000077984,Gene Expression
+NK,CD247,ENSG00000198821,Gene Expression
+NK,CMC1,ENSG00000187118,Gene Expression
+NK,PRF1,ENSG00000180644,Gene Expression
+NK,CORO1A,ENSG00000102879,Gene Expression
+NK,MYL12A,ENSG00000101608,Gene Expression
+NK,MATK,ENSG00000007264,Gene Expression
+NK,LY6E,ENSG00000160932,Gene Expression
+NK,LSP1,ENSG00000130592,Gene Expression
+NK,CLIC3,ENSG00000169583,Gene Expression
+NK,DUSP2,ENSG00000158050,Gene Expression
+NK,ZNF683,ENSG00000176083,Gene Expression
+NK,IL2RG,ENSG00000147168,Gene Expression
+NK,TMIGD2,ENSG00000167664,Gene Expression
+NK,RAC2,ENSG00000128340,Gene Expression
+NK,CD48,ENSG00000117091,Gene Expression
+NK,CCL4,ENSG00000275302,Gene Expression
+NK,HLA-C,ENSG00000204525,Gene Expression
+NK,PLAAT4,ENSG00000133321,Gene Expression
+NK,GZMM,ENSG00000197540,Gene Expression
+NK,CD52,ENSG00000169442,Gene Expression
+NK,CLEC2B,ENSG00000110852,Gene Expression
+NK,LIMD2,ENSG00000136490,Gene Expression
+NK,LTB,ENSG00000227507,Gene Expression
+NK,ACAP1,ENSG00000072818,Gene Expression
+NK,HOPX,ENSG00000171476,Gene Expression
+NK,ISG15,ENSG00000187608,Gene Expression
+B cell,IGKC,ENSG00000211592,Gene Expression
+B cell,CD79A,ENSG00000105369,Gene Expression
+B cell,MS4A1,ENSG00000156738,Gene Expression
+B cell,IGLC2,ENSG00000211677,Gene Expression
+B cell,LTB,ENSG00000227507,Gene Expression
+B cell,CD79B,ENSG00000007312,Gene Expression
+B cell,IGHM,ENSG00000211899,Gene Expression
+B cell,CD37,ENSG00000104894,Gene Expression
+B cell,CD52,ENSG00000169442,Gene Expression
+B cell,BANK1,ENSG00000153064,Gene Expression
+B cell,CD69,ENSG00000110848,Gene Expression
+B cell,CXCR4,ENSG00000121966,Gene Expression
+B cell,HLA-DQA1,ENSG00000196735,Gene Expression
+B cell,HLA-DQB1,ENSG00000179344,Gene Expression
+B cell,CD48,ENSG00000117091,Gene Expression
+B cell,LIMD2,ENSG00000136490,Gene Expression
+B cell,HLA-DRA,ENSG00000204287,Gene Expression
+B cell,SELL,ENSG00000188404,Gene Expression
+B cell,CD74,ENSG00000019582,Gene Expression
+B cell,BIRC3,ENSG00000023445,Gene Expression
+B cell,SPIB,ENSG00000269404,Gene Expression
+B cell,CORO1A,ENSG00000102879,Gene Expression
+B cell,TNFRSF13C,ENSG00000159958,Gene Expression
+B cell,POU2F2,ENSG00000028277,Gene Expression
+B cell,PLAC8,ENSG00000145287,Gene Expression
+B cell,BLK,ENSG00000136573,Gene Expression
+B cell,CD24,ENSG00000272398,Gene Expression
+B cell,BTG1,ENSG00000133639,Gene Expression
+B cell,NCF1,ENSG00000158517,Gene Expression
+B cell,TSC22D3,ENSG00000157514,Gene Expression
+B cell,HLA-DPB1,ENSG00000223865,Gene Expression
+B cell,RAC2,ENSG00000128340,Gene Expression
+B cell,ISG20,ENSG00000172183,Gene Expression
+B cell,TNFRSF13B,ENSG00000240505,Gene Expression
+B cell,FCMR,ENSG00000162894,Gene Expression
+B cell,HVCN1,ENSG00000122986,Gene Expression
+B cell,FCRLA,ENSG00000132185,Gene Expression
+B cell,PTPN6,ENSG00000111679,Gene Expression
+B cell,RIPOR2,ENSG00000111913,Gene Expression
+B cell,EVI2B,ENSG00000185862,Gene Expression
+B cell,TXNIP,ENSG00000265972,Gene Expression
+B cell,PDLIM1,ENSG00000107438,Gene Expression
+B cell,GPSM3,ENSG00000213654,Gene Expression
+B cell,LSP1,ENSG00000130592,Gene Expression
+B cell,HLA-DRB5,ENSG00000198502,Gene Expression
+B cell,JCHAIN,ENSG00000132465,Gene Expression
+B cell,ARHGAP24,ENSG00000138639,Gene Expression
+B cell,TNFAIP8,ENSG00000145779,Gene Expression
+B cell,ICAM3,ENSG00000076662,Gene Expression
+B cell,HLA-DPA1,ENSG00000231389,Gene Expression
+Plasma B,IGKC,ENSG00000211592,Gene Expression
+Plasma B,IGLC2,ENSG00000211677,Gene Expression
+Plasma B,JCHAIN,ENSG00000132465,Gene Expression
+Plasma B,IGHM,ENSG00000211899,Gene Expression
+Plasma B,MZB1,ENSG00000170476,Gene Expression
+Plasma B,XBP1,ENSG00000100219,Gene Expression
+Plasma B,PTGDS,ENSG00000107317,Gene Expression
+Plasma B,MBP,ENSG00000197971,Gene Expression
+Plasma B,DERL3,ENSG00000099958,Gene Expression
+Plasma B,PLP1,ENSG00000123560,Gene Expression
+Plasma B,CRYAB,ENSG00000109846,Gene Expression
+Plasma B,CD79A,ENSG00000105369,Gene Expression
+Plasma B,RNASE1,ENSG00000129538,Gene Expression
+Plasma B,PIM2,ENSG00000102096,Gene Expression
+Plasma B,PLAAT3,ENSG00000176485,Gene Expression
+Plasma B,CNP,ENSG00000173786,Gene Expression
+Plasma B,LHPP,ENSG00000107902,Gene Expression
+Plasma B,CLDND1,ENSG00000080822,Gene Expression
+Plasma B,GPM6B,ENSG00000046653,Gene Expression
+Plasma B,HERPUD1,ENSG00000051108,Gene Expression
+Plasma B,CD38,ENSG00000004468,Gene Expression
+Plasma B,CFL2,ENSG00000165410,Gene Expression
+Plasma B,TENT5C,ENSG00000183508,Gene Expression
+Plasma B,ISG20,ENSG00000172183,Gene Expression
+Plasma B,EVI2A,ENSG00000126860,Gene Expression
+Plasma B,FCRL5,ENSG00000143297,Gene Expression
+Plasma B,CD27,ENSG00000139193,Gene Expression
+Plasma B,PMP22,ENSG00000109099,Gene Expression
+Plasma B,POU2AF1,ENSG00000110777,Gene Expression
+Plasma B,SVIP,ENSG00000198168,Gene Expression
+Plasma B,QDPR,ENSG00000151552,Gene Expression
+Plasma B,SLAMF7,ENSG00000026751,Gene Expression
+Plasma B,SELENOM,ENSG00000198832,Gene Expression
+Plasma B,COMMD3,ENSG00000148444,Gene Expression
+Plasma B,FEZ1,ENSG00000149557,Gene Expression
+Plasma B,H1-2,ENSG00000187837,Gene Expression
+Plasma B,IFITM1,ENSG00000185885,Gene Expression
+Plasma B,SDF2L1,ENSG00000128228,Gene Expression
+Plasma B,SELENOP,ENSG00000250722,Gene Expression
+Plasma B,NUCB2,ENSG00000070081,Gene Expression
+Plasma B,SEL1L3,ENSG00000091490,Gene Expression
+Plasma B,TPD52,ENSG00000076554,Gene Expression
+Plasma B,CSRP1,ENSG00000159176,Gene Expression
+Plasma B,EAF2,ENSG00000145088,Gene Expression
+Plasma B,TP53INP1,ENSG00000164938,Gene Expression
+Plasma B,ICAM3,ENSG00000076662,Gene Expression
+Plasma B,NDRG2,ENSG00000165795,Gene Expression
+Plasma B,KLF13,ENSG00000169926,Gene Expression
+Plasma B,CD79B,ENSG00000007312,Gene Expression
+Plasma B,PDK1,ENSG00000152256,Gene Expression
+pDC,GZMB,ENSG00000100453,Gene Expression
+pDC,JCHAIN,ENSG00000132465,Gene Expression
+pDC,PTGDS,ENSG00000107317,Gene Expression
+pDC,IRF7,ENSG00000185507,Gene Expression
+pDC,IRF8,ENSG00000140968,Gene Expression
+pDC,DERL3,ENSG00000099958,Gene Expression
+pDC,CLIC3,ENSG00000169583,Gene Expression
+pDC,UGCG,ENSG00000148154,Gene Expression
+pDC,PLAC8,ENSG00000145287,Gene Expression
+pDC,MZB1,ENSG00000170476,Gene Expression
+pDC,IL3RA,ENSG00000185291,Gene Expression
+pDC,LILRA4,ENSG00000239961,Gene Expression
+pDC,TSPAN13,ENSG00000106537,Gene Expression
+pDC,C12orf75,ENSG00000235162,Gene Expression
+pDC,PLD4,ENSG00000166428,Gene Expression
+pDC,MPEG1,ENSG00000197629,Gene Expression
+pDC,BCL11A,ENSG00000119866,Gene Expression
+pDC,SERPINF1,ENSG00000132386,Gene Expression
+pDC,SPIB,ENSG00000269404,Gene Expression
+pDC,TCF4,ENSG00000196628,Gene Expression
+pDC,SMPD3,ENSG00000103056,Gene Expression
+pDC,LTB,ENSG00000227507,Gene Expression
+pDC,ITM2C,ENSG00000135916,Gene Expression
+pDC,CYBA,ENSG00000051523,Gene Expression
+pDC,SLC20A1,ENSG00000144136,Gene Expression
+pDC,ALOX5AP,ENSG00000132965,Gene Expression
+pDC,TPM2,ENSG00000198467,Gene Expression
+pDC,GAS6,ENSG00000183087,Gene Expression
+pDC,UCP2,ENSG00000175567,Gene Expression
+pDC,SELL,ENSG00000188404,Gene Expression
+pDC,HERPUD1,ENSG00000051108,Gene Expression
+pDC,PLP2,ENSG00000102007,Gene Expression
+pDC,MYL12A,ENSG00000101608,Gene Expression
+pDC,NCF1,ENSG00000158517,Gene Expression
+pDC,CD4,ENSG00000010610,Gene Expression
+pDC,LAMP5,ENSG00000125869,Gene Expression
+pDC,SEL1L3,ENSG00000091490,Gene Expression
+pDC,CCDC186,ENSG00000165813,Gene Expression
+pDC,RNASE6,ENSG00000169413,Gene Expression
+pDC,JAML,ENSG00000160593,Gene Expression
+pDC,SHD,ENSG00000105251,Gene Expression
+pDC,VAMP8,ENSG00000118640,Gene Expression
+pDC,PTCRA,ENSG00000171611,Gene Expression
+pDC,PRKCB,ENSG00000166501,Gene Expression
+pDC,CTSC,ENSG00000109861,Gene Expression
+pDC,SLC15A4,ENSG00000139370,Gene Expression
+pDC,PLEK,ENSG00000115956,Gene Expression
+pDC,COBLL1,ENSG00000082438,Gene Expression
+pDC,MDFIC,ENSG00000135272,Gene Expression
+pDC,CTSZ,ENSG00000101160,Gene Expression
+Endo capilar,CLDN5,ENSG00000184113,Gene Expression
+Endo capilar,IGFBP7,ENSG00000163453,Gene Expression
+Endo capilar,ITM2A,ENSG00000078596,Gene Expression
+Endo capilar,CCN2,ENSG00000118523,Gene Expression
+Endo capilar,IFI27,ENSG00000165949,Gene Expression
+Endo capilar,SPARC,ENSG00000113140,Gene Expression
+Endo capilar,GNG11,ENSG00000127920,Gene Expression
+Endo capilar,CA2,ENSG00000104267,Gene Expression
+Endo capilar,RGCC,ENSG00000102760,Gene Expression
+Endo capilar,ANGPT2,ENSG00000091879,Gene Expression
+Endo capilar,SPARCL1,ENSG00000152583,Gene Expression
+Endo capilar,SLC38A5,ENSG00000017483,Gene Expression
+Endo capilar,TSC22D1,ENSG00000102804,Gene Expression
+Endo capilar,ABCG2,ENSG00000118777,Gene Expression
+Endo capilar,IFITM3,ENSG00000142089,Gene Expression
+Endo capilar,VWF,ENSG00000110799,Gene Expression
+Endo capilar,MT1E,ENSG00000169715,Gene Expression
+Endo capilar,MFSD2A,ENSG00000168389,Gene Expression
+Endo capilar,IGFBP3,ENSG00000146674,Gene Expression
+Endo capilar,EDN1,ENSG00000078401,Gene Expression
+Endo capilar,CAVIN2,ENSG00000168497,Gene Expression
+Endo capilar,ESAM,ENSG00000149564,Gene Expression
+Endo capilar,TM4SF1,ENSG00000169908,Gene Expression
+Endo capilar,SLC9A3R2,ENSG00000065054,Gene Expression
+Endo capilar,SLC2A1,ENSG00000117394,Gene Expression
+Endo capilar,APOLD1,ENSG00000178878,Gene Expression
+Endo capilar,SLC7A5,ENSG00000103257,Gene Expression
+Endo capilar,A2M,ENSG00000175899,Gene Expression
+Endo capilar,SLC39A10,ENSG00000196950,Gene Expression
+Endo capilar,INSR,ENSG00000171105,Gene Expression
+Endo capilar,RAMP2,ENSG00000131477,Gene Expression
+Endo capilar,EPAS1,ENSG00000116016,Gene Expression
+Endo capilar,TIMP3,ENSG00000100234,Gene Expression
+Endo capilar,ID1,ENSG00000125968,Gene Expression
+Endo capilar,ADGRL4,ENSG00000162618,Gene Expression
+Endo capilar,EGFL7,ENSG00000172889,Gene Expression
+Endo capilar,IFI6,ENSG00000126709,Gene Expression
+Endo capilar,PODXL,ENSG00000128567,Gene Expression
+Endo capilar,LMO2,ENSG00000135363,Gene Expression
+Endo capilar,FLT1,ENSG00000102755,Gene Expression
+Endo capilar,ADIRF,ENSG00000148671,Gene Expression
+Endo capilar,FN1,ENSG00000115414,Gene Expression
+Endo capilar,ID3,ENSG00000117318,Gene Expression
+Endo capilar,NET1,ENSG00000173848,Gene Expression
+Endo capilar,SRARP,ENSG00000183888,Gene Expression
+Endo capilar,ADGRF5,ENSG00000069122,Gene Expression
+Endo capilar,TM4SF18,ENSG00000163762,Gene Expression
+Endo capilar,ENG,ENSG00000106991,Gene Expression
+Endo capilar,PECAM1,ENSG00000261371,Gene Expression
+Endo capilar,CLEC14A,ENSG00000176435,Gene Expression
+Endo arterial,IGFBP7,ENSG00000163453,Gene Expression
+Endo arterial,SPARC,ENSG00000113140,Gene Expression
+Endo arterial,CLDN5,ENSG00000184113,Gene Expression
+Endo arterial,COL4A1,ENSG00000187498,Gene Expression
+Endo arterial,CCN2,ENSG00000118523,Gene Expression
+Endo arterial,COL4A2,ENSG00000134871,Gene Expression
+Endo arterial,A2M,ENSG00000175899,Gene Expression
+Endo arterial,ITM2A,ENSG00000078596,Gene Expression
+Endo arterial,HSPG2,ENSG00000142798,Gene Expression
+Endo arterial,ANGPT2,ENSG00000091879,Gene Expression
+Endo arterial,VWF,ENSG00000110799,Gene Expression
+Endo arterial,GNG11,ENSG00000127920,Gene Expression
+Endo arterial,RGCC,ENSG00000102760,Gene Expression
+Endo arterial,ESAM,ENSG00000149564,Gene Expression
+Endo arterial,FLT1,ENSG00000102755,Gene Expression
+Endo arterial,CA2,ENSG00000104267,Gene Expression
+Endo arterial,INSR,ENSG00000171105,Gene Expression
+Endo arterial,ESM1,ENSG00000164283,Gene Expression
+Endo arterial,STC1,ENSG00000159167,Gene Expression
+Endo arterial,TM4SF1,ENSG00000169908,Gene Expression
+Endo arterial,PECAM1,ENSG00000261371,Gene Expression
+Endo arterial,ADGRL4,ENSG00000162618,Gene Expression
+Endo arterial,APOLD1,ENSG00000178878,Gene Expression
+Endo arterial,IFI27,ENSG00000165949,Gene Expression
+Endo arterial,MCAM,ENSG00000076706,Gene Expression
+Endo arterial,EGFL7,ENSG00000172889,Gene Expression
+Endo arterial,ENG,ENSG00000106991,Gene Expression
+Endo arterial,SLC9A3R2,ENSG00000065054,Gene Expression
+Endo arterial,PODXL,ENSG00000128567,Gene Expression
+Endo arterial,EPAS1,ENSG00000116016,Gene Expression
+Endo arterial,CD93,ENSG00000125810,Gene Expression
+Endo arterial,PLVAP,ENSG00000130300,Gene Expression
+Endo arterial,ITGB1,ENSG00000150093,Gene Expression
+Endo arterial,PCAT19,ENSG00000267107,Gene Expression
+Endo arterial,SPRY1,ENSG00000164056,Gene Expression
+Endo arterial,PLXND1,ENSG00000004399,Gene Expression
+Endo arterial,SPARCL1,ENSG00000152583,Gene Expression
+Endo arterial,ADGRF5,ENSG00000069122,Gene Expression
+Endo arterial,IFITM3,ENSG00000142089,Gene Expression
+Endo arterial,RAMP2,ENSG00000131477,Gene Expression
+Endo arterial,CCN1,ENSG00000142871,Gene Expression
+Endo arterial,VWA1,ENSG00000179403,Gene Expression
+Endo arterial,APP,ENSG00000142192,Gene Expression
+Endo arterial,EDN1,ENSG00000078401,Gene Expression
+Endo arterial,SPINK8,ENSG00000229453,Gene Expression
+Endo arterial,MFSD2A,ENSG00000168389,Gene Expression
+Endo arterial,APLN,ENSG00000171388,Gene Expression
+Endo arterial,LAMA4,ENSG00000112769,Gene Expression
+Endo arterial,IGFBP3,ENSG00000146674,Gene Expression
+Endo arterial,ABCG2,ENSG00000118777,Gene Expression
+Tip-like,IGFBP7,ENSG00000163453,Gene Expression
+Tip-like,SPARC,ENSG00000113140,Gene Expression
+Tip-like,CLDN5,ENSG00000184113,Gene Expression
+Tip-like,ITM2A,ENSG00000078596,Gene Expression
+Tip-like,A2M,ENSG00000175899,Gene Expression
+Tip-like,COL4A1,ENSG00000187498,Gene Expression
+Tip-like,CA2,ENSG00000104267,Gene Expression
+Tip-like,CCN2,ENSG00000118523,Gene Expression
+Tip-like,ANGPT2,ENSG00000091879,Gene Expression
+Tip-like,APOLD1,ENSG00000178878,Gene Expression
+Tip-like,VWF,ENSG00000110799,Gene Expression
+Tip-like,COL4A2,ENSG00000134871,Gene Expression
+Tip-like,ESAM,ENSG00000149564,Gene Expression
+Tip-like,GNG11,ENSG00000127920,Gene Expression
+Tip-like,SLC38A5,ENSG00000017483,Gene Expression
+Tip-like,HSPG2,ENSG00000142798,Gene Expression
+Tip-like,ADGRL4,ENSG00000162618,Gene Expression
+Tip-like,MFSD2A,ENSG00000168389,Gene Expression
+Tip-like,ABCG2,ENSG00000118777,Gene Expression
+Tip-like,RGCC,ENSG00000102760,Gene Expression
+Tip-like,IFI27,ENSG00000165949,Gene Expression
+Tip-like,EPAS1,ENSG00000116016,Gene Expression
+Tip-like,INSR,ENSG00000171105,Gene Expression
+Tip-like,SPINK8,ENSG00000229453,Gene Expression
+Tip-like,FN1,ENSG00000115414,Gene Expression
+Tip-like,MCAM,ENSG00000076706,Gene Expression
+Tip-like,PECAM1,ENSG00000261371,Gene Expression
+Tip-like,FLT1,ENSG00000102755,Gene Expression
+Tip-like,C1orf54,ENSG00000118292,Gene Expression
+Tip-like,APCDD1,ENSG00000154856,Gene Expression
+Tip-like,EDN1,ENSG00000078401,Gene Expression
+Tip-like,APLN,ENSG00000171388,Gene Expression
+Tip-like,ITGB1,ENSG00000150093,Gene Expression
+Tip-like,SPARCL1,ENSG00000152583,Gene Expression
+Tip-like,PODXL,ENSG00000128567,Gene Expression
+Tip-like,CD93,ENSG00000125810,Gene Expression
+Tip-like,IGFBP3,ENSG00000146674,Gene Expression
+Tip-like,EGFL7,ENSG00000172889,Gene Expression
+Tip-like,SLC2A1,ENSG00000117394,Gene Expression
+Tip-like,PCAT19,ENSG00000267107,Gene Expression
+Tip-like,LAMA4,ENSG00000112769,Gene Expression
+Tip-like,BGN,ENSG00000182492,Gene Expression
+Tip-like,ESM1,ENSG00000164283,Gene Expression
+Tip-like,SLC7A5,ENSG00000103257,Gene Expression
+Tip-like,SPTBN1,ENSG00000115306,Gene Expression
+Tip-like,CD34,ENSG00000174059,Gene Expression
+Tip-like,ADGRF5,ENSG00000069122,Gene Expression
+Tip-like,CAVIN2,ENSG00000168497,Gene Expression
+Tip-like,LAMC1,ENSG00000135862,Gene Expression
+Tip-like,TM4SF1,ENSG00000169908,Gene Expression
+Scavenging endothelial,SPARC,ENSG00000113140,Gene Expression
+Scavenging endothelial,IGFBP7,ENSG00000163453,Gene Expression
+Scavenging endothelial,ITM2A,ENSG00000078596,Gene Expression
+Scavenging endothelial,ANGPT2,ENSG00000091879,Gene Expression
+Scavenging endothelial,COL4A1,ENSG00000187498,Gene Expression
+Scavenging endothelial,CCN2,ENSG00000118523,Gene Expression
+Scavenging endothelial,CA2,ENSG00000104267,Gene Expression
+Scavenging endothelial,A2M,ENSG00000175899,Gene Expression
+Scavenging endothelial,ITGB1,ENSG00000150093,Gene Expression
+Scavenging endothelial,APLN,ENSG00000171388,Gene Expression
+Scavenging endothelial,FLT1,ENSG00000102755,Gene Expression
+Scavenging endothelial,ABCG2,ENSG00000118777,Gene Expression
+Scavenging endothelial,MT-ND4,ENSG00000198886,Gene Expression
+Scavenging endothelial,MT-ND1,ENSG00000198888,Gene Expression
+Scavenging endothelial,FN1,ENSG00000115414,Gene Expression
+Scavenging endothelial,RGCC,ENSG00000102760,Gene Expression
+Scavenging endothelial,SPARCL1,ENSG00000152583,Gene Expression
+Scavenging endothelial,APP,ENSG00000142192,Gene Expression
+Scavenging endothelial,CLDN5,ENSG00000184113,Gene Expression
+Scavenging endothelial,MT-CYB,ENSG00000198727,Gene Expression
+Scavenging endothelial,CD93,ENSG00000125810,Gene Expression
+Scavenging endothelial,INSR,ENSG00000171105,Gene Expression
+Scavenging endothelial,RGS5,ENSG00000143248,Gene Expression
+Scavenging endothelial,MT-ATP6,ENSG00000198899,Gene Expression
+Scavenging endothelial,DUSP6,ENSG00000139318,Gene Expression
+Scavenging endothelial,MCAM,ENSG00000076706,Gene Expression
+Scavenging endothelial,COL4A2,ENSG00000134871,Gene Expression
+Scavenging endothelial,MT-ND3,ENSG00000198840,Gene Expression
+Scavenging endothelial,RHOB,ENSG00000143878,Gene Expression
+Scavenging endothelial,ADGRL4,ENSG00000162618,Gene Expression
+Scavenging endothelial,C1orf54,ENSG00000118292,Gene Expression
+Scavenging endothelial,GNG11,ENSG00000127920,Gene Expression
+Scavenging endothelial,EPAS1,ENSG00000116016,Gene Expression
+Scavenging endothelial,SLC7A5,ENSG00000103257,Gene Expression
+Scavenging endothelial,ADGRF5,ENSG00000069122,Gene Expression
+Scavenging endothelial,LMO2,ENSG00000135363,Gene Expression
+Scavenging endothelial,CAVIN2,ENSG00000168497,Gene Expression
+Scavenging endothelial,TM4SF18,ENSG00000163762,Gene Expression
+Scavenging endothelial,KLF4,ENSG00000136826,Gene Expression
+Scavenging endothelial,EGR1,ENSG00000120738,Gene Expression
+Scavenging endothelial,VWF,ENSG00000110799,Gene Expression
+Scavenging endothelial,IVNS1ABP,ENSG00000116679,Gene Expression
+Scavenging endothelial,PECAM1,ENSG00000261371,Gene Expression
+Scavenging endothelial,MT-ATP8,ENSG00000228253,Gene Expression
+Scavenging endothelial,MYO1B,ENSG00000128641,Gene Expression
+Scavenging endothelial,APCDD1,ENSG00000154856,Gene Expression
+Scavenging endothelial,PODXL,ENSG00000128567,Gene Expression
+Scavenging endothelial,MT-CO1,ENSG00000198804,Gene Expression
+Scavenging endothelial,APOLD1,ENSG00000178878,Gene Expression
+Scavenging endothelial,JUND,ENSG00000130522,Gene Expression
+SMC,IGFBP7,ENSG00000163453,Gene Expression
+SMC,MMP9,ENSG00000100985,Gene Expression
+SMC,NDUFA4L2,ENSG00000185633,Gene Expression
+SMC,TAGLN,ENSG00000149591,Gene Expression
+SMC,BGN,ENSG00000182492,Gene Expression
+SMC,SPARC,ENSG00000113140,Gene Expression
+SMC,ACTA2,ENSG00000107796,Gene Expression
+SMC,THY1,ENSG00000154096,Gene Expression
+SMC,RGS5,ENSG00000143248,Gene Expression
+SMC,FN1,ENSG00000115414,Gene Expression
+SMC,CALD1,ENSG00000122786,Gene Expression
+SMC,TIMP1,ENSG00000102265,Gene Expression
+SMC,MIR4435-2HG,ENSG00000172965,Gene Expression
+SMC,MYL9,ENSG00000101335,Gene Expression
+SMC,CYTOR,ENSG00000222041,Gene Expression
+SMC,TPM2,ENSG00000198467,Gene Expression
+SMC,COL4A1,ENSG00000187498,Gene Expression
+SMC,COL4A2,ENSG00000134871,Gene Expression
+SMC,HIGD1B,ENSG00000131097,Gene Expression
+SMC,SERPINH1,ENSG00000149257,Gene Expression
+SMC,IBSP,ENSG00000029559,Gene Expression
+SMC,IFITM3,ENSG00000142089,Gene Expression
+SMC,COL1A2,ENSG00000164692,Gene Expression
+SMC,MGP,ENSG00000111341,Gene Expression
+SMC,DCN,ENSG00000011465,Gene Expression
+SMC,LGALS1,ENSG00000100097,Gene Expression
+SMC,IGFBP4,ENSG00000141753,Gene Expression
+SMC,PCOLCE,ENSG00000106333,Gene Expression
+SMC,TPM1,ENSG00000140416,Gene Expression
+SMC,PLXDC1,ENSG00000161381,Gene Expression
+SMC,PPP1R14A,ENSG00000167641,Gene Expression
+SMC,FRZB,ENSG00000162998,Gene Expression
+SMC,COL1A1,ENSG00000108821,Gene Expression
+SMC,MFGE8,ENSG00000140545,Gene Expression
+SMC,ITGB1,ENSG00000150093,Gene Expression
+SMC,CRIP1,ENSG00000213145,Gene Expression
+SMC,GNG11,ENSG00000127920,Gene Expression
+SMC,UACA,ENSG00000137831,Gene Expression
+SMC,PDLIM1,ENSG00000107438,Gene Expression
+SMC,C11orf96,ENSG00000187479,Gene Expression
+SMC,COL3A1,ENSG00000168542,Gene Expression
+SMC,TPM4,ENSG00000167460,Gene Expression
+SMC,COL6A2,ENSG00000142173,Gene Expression
+SMC,OLFML3,ENSG00000116774,Gene Expression
+SMC,CCDC3,ENSG00000151468,Gene Expression
+SMC,PGF,ENSG00000119630,Gene Expression
+SMC,HES4,ENSG00000188290,Gene Expression
+SMC,CA2,ENSG00000104267,Gene Expression
+SMC,PRSS23,ENSG00000150687,Gene Expression
+SMC,SDC2,ENSG00000169439,Gene Expression
+SMC COL,COL1A1,ENSG00000108821,Gene Expression
+SMC COL,COL1A2,ENSG00000164692,Gene Expression
+SMC COL,FN1,ENSG00000115414,Gene Expression
+SMC COL,TIMP1,ENSG00000102265,Gene Expression
+SMC COL,COL6A2,ENSG00000142173,Gene Expression
+SMC COL,COL6A1,ENSG00000142156,Gene Expression
+SMC COL,IGFBP7,ENSG00000163453,Gene Expression
+SMC COL,COL3A1,ENSG00000168542,Gene Expression
+SMC COL,BGN,ENSG00000182492,Gene Expression
+SMC COL,SPARC,ENSG00000113140,Gene Expression
+SMC COL,COL6A3,ENSG00000163359,Gene Expression
+SMC COL,TAGLN,ENSG00000149591,Gene Expression
+SMC COL,CALD1,ENSG00000122786,Gene Expression
+SMC COL,PCOLCE,ENSG00000106333,Gene Expression
+SMC COL,TPM2,ENSG00000198467,Gene Expression
+SMC COL,LUM,ENSG00000139329,Gene Expression
+SMC COL,MMP9,ENSG00000100985,Gene Expression
+SMC COL,TIMP3,ENSG00000100234,Gene Expression
+SMC COL,POSTN,ENSG00000133110,Gene Expression
+SMC COL,COL4A1,ENSG00000187498,Gene Expression
+SMC COL,MYL9,ENSG00000101335,Gene Expression
+SMC COL,SERPINH1,ENSG00000149257,Gene Expression
+SMC COL,MGP,ENSG00000111341,Gene Expression
+SMC COL,COL4A2,ENSG00000134871,Gene Expression
+SMC COL,LGALS1,ENSG00000100097,Gene Expression
+SMC COL,MT2A,ENSG00000125148,Gene Expression
+SMC COL,COL5A1,ENSG00000130635,Gene Expression
+SMC COL,CCN2,ENSG00000118523,Gene Expression
+SMC COL,SERPINE1,ENSG00000106366,Gene Expression
+SMC COL,COL5A2,ENSG00000204262,Gene Expression
+SMC COL,COL18A1,ENSG00000182871,Gene Expression
+SMC COL,PRSS23,ENSG00000150687,Gene Expression
+SMC COL,TPM1,ENSG00000140416,Gene Expression
+SMC COL,THY1,ENSG00000154096,Gene Expression
+SMC COL,MMP14,ENSG00000157227,Gene Expression
+SMC COL,TNC,ENSG00000041982,Gene Expression
+SMC COL,NNMT,ENSG00000166741,Gene Expression
+SMC COL,ANXA2,ENSG00000182718,Gene Expression
+SMC COL,CCN1,ENSG00000142871,Gene Expression
+SMC COL,DCN,ENSG00000011465,Gene Expression
+SMC COL,CCDC80,ENSG00000091986,Gene Expression
+SMC COL,LOXL2,ENSG00000134013,Gene Expression
+SMC COL,EMILIN1,ENSG00000138080,Gene Expression
+SMC COL,IFITM3,ENSG00000142089,Gene Expression
+SMC COL,HSPB1,ENSG00000106211,Gene Expression
+SMC COL,TGFBI,ENSG00000120708,Gene Expression
+SMC COL,CAV1,ENSG00000105974,Gene Expression
+SMC COL,CYTOR,ENSG00000222041,Gene Expression
+SMC COL,HSPA5,ENSG00000044574,Gene Expression
+SMC COL,LMNA,ENSG00000160789,Gene Expression
+SMC prolif,IGFBP7,ENSG00000163453,Gene Expression
+SMC prolif,RGS5,ENSG00000143248,Gene Expression
+SMC prolif,NDUFA4L2,ENSG00000185633,Gene Expression
+SMC prolif,MMP9,ENSG00000100985,Gene Expression
+SMC prolif,FN1,ENSG00000115414,Gene Expression
+SMC prolif,SPARC,ENSG00000113140,Gene Expression
+SMC prolif,TAGLN,ENSG00000149591,Gene Expression
+SMC prolif,THY1,ENSG00000154096,Gene Expression
+SMC prolif,MIR4435-2HG,ENSG00000172965,Gene Expression
+SMC prolif,BGN,ENSG00000182492,Gene Expression
+SMC prolif,CYTOR,ENSG00000222041,Gene Expression
+SMC prolif,COL4A1,ENSG00000187498,Gene Expression
+SMC prolif,CALD1,ENSG00000122786,Gene Expression
+SMC prolif,ACTA2,ENSG00000107796,Gene Expression
+SMC prolif,TPM2,ENSG00000198467,Gene Expression
+SMC prolif,MYL9,ENSG00000101335,Gene Expression
+SMC prolif,HIGD1B,ENSG00000131097,Gene Expression
+SMC prolif,COL4A2,ENSG00000134871,Gene Expression
+SMC prolif,TIMP1,ENSG00000102265,Gene Expression
+SMC prolif,COL1A2,ENSG00000164692,Gene Expression
+SMC prolif,COL3A1,ENSG00000168542,Gene Expression
+SMC prolif,UACA,ENSG00000137831,Gene Expression
+SMC prolif,TPM4,ENSG00000167460,Gene Expression
+SMC prolif,SERPINH1,ENSG00000149257,Gene Expression
+SMC prolif,TPM1,ENSG00000140416,Gene Expression
+SMC prolif,ITGB1,ENSG00000150093,Gene Expression
+SMC prolif,COL1A1,ENSG00000108821,Gene Expression
+SMC prolif,LGALS1,ENSG00000100097,Gene Expression
+SMC prolif,MCAM,ENSG00000076706,Gene Expression
+SMC prolif,IFITM3,ENSG00000142089,Gene Expression
+SMC prolif,DCN,ENSG00000011465,Gene Expression
+SMC prolif,TUBB,ENSG00000196230,Gene Expression
+SMC prolif,H2AZ1,ENSG00000164032,Gene Expression
+SMC prolif,IGFBP4,ENSG00000141753,Gene Expression
+SMC prolif,TUBA1B,ENSG00000123416,Gene Expression
+SMC prolif,CCDC3,ENSG00000151468,Gene Expression
+SMC prolif,NOTCH3,ENSG00000074181,Gene Expression
+SMC prolif,GNG11,ENSG00000127920,Gene Expression
+SMC prolif,PCOLCE,ENSG00000106333,Gene Expression
+SMC prolif,ITGA1,ENSG00000213949,Gene Expression
+SMC prolif,FSTL1,ENSG00000163430,Gene Expression
+SMC prolif,FRZB,ENSG00000162998,Gene Expression
+SMC prolif,PPP1R14A,ENSG00000167641,Gene Expression
+SMC prolif,CRIP1,ENSG00000213145,Gene Expression
+SMC prolif,COL5A2,ENSG00000204262,Gene Expression
+SMC prolif,PLXDC1,ENSG00000161381,Gene Expression
+SMC prolif,NID1,ENSG00000116962,Gene Expression
+SMC prolif,HES4,ENSG00000188290,Gene Expression
+SMC prolif,MGP,ENSG00000111341,Gene Expression
+SMC prolif,PDGFRB,ENSG00000113721,Gene Expression
+Pericyte,IGFBP7,ENSG00000163453,Gene Expression
+Pericyte,FN1,ENSG00000115414,Gene Expression
+Pericyte,RGS5,ENSG00000143248,Gene Expression
+Pericyte,SPARC,ENSG00000113140,Gene Expression
+Pericyte,COL4A1,ENSG00000187498,Gene Expression
+Pericyte,COL4A2,ENSG00000134871,Gene Expression
+Pericyte,CALD1,ENSG00000122786,Gene Expression
+Pericyte,COL1A2,ENSG00000164692,Gene Expression
+Pericyte,COL3A1,ENSG00000168542,Gene Expression
+Pericyte,NDUFA4L2,ENSG00000185633,Gene Expression
+Pericyte,TAGLN,ENSG00000149591,Gene Expression
+Pericyte,MMP9,ENSG00000100985,Gene Expression
+Pericyte,BGN,ENSG00000182492,Gene Expression
+Pericyte,ACTA2,ENSG00000107796,Gene Expression
+Pericyte,DCN,ENSG00000011465,Gene Expression
+Pericyte,MIR4435-2HG,ENSG00000172965,Gene Expression
+Pericyte,COL1A1,ENSG00000108821,Gene Expression
+Pericyte,THY1,ENSG00000154096,Gene Expression
+Pericyte,ITGB1,ENSG00000150093,Gene Expression
+Pericyte,CYTOR,ENSG00000222041,Gene Expression
+Pericyte,HIGD1B,ENSG00000131097,Gene Expression
+Pericyte,MGP,ENSG00000111341,Gene Expression
+Pericyte,TPM2,ENSG00000198467,Gene Expression
+Pericyte,PDGFRB,ENSG00000113721,Gene Expression
+Pericyte,MYL9,ENSG00000101335,Gene Expression
+Pericyte,IFITM3,ENSG00000142089,Gene Expression
+Pericyte,UACA,ENSG00000137831,Gene Expression
+Pericyte,COL18A1,ENSG00000182871,Gene Expression
+Pericyte,NOTCH3,ENSG00000074181,Gene Expression
+Pericyte,FSTL1,ENSG00000163430,Gene Expression
+Pericyte,PLXDC1,ENSG00000161381,Gene Expression
+Pericyte,COL6A1,ENSG00000142156,Gene Expression
+Pericyte,COL5A2,ENSG00000204262,Gene Expression
+Pericyte,SERPINH1,ENSG00000149257,Gene Expression
+Pericyte,MCAM,ENSG00000076706,Gene Expression
+Pericyte,TIMP1,ENSG00000102265,Gene Expression
+Pericyte,ATP1A2,ENSG00000018625,Gene Expression
+Pericyte,LUM,ENSG00000139329,Gene Expression
+Pericyte,ITGA1,ENSG00000213949,Gene Expression
+Pericyte,NID1,ENSG00000116962,Gene Expression
+Pericyte,SPARCL1,ENSG00000152583,Gene Expression
+Pericyte,COL6A2,ENSG00000142173,Gene Expression
+Pericyte,EPAS1,ENSG00000116016,Gene Expression
+Pericyte,CCN2,ENSG00000118523,Gene Expression
+Pericyte,TPM4,ENSG00000167460,Gene Expression
+Pericyte,C11orf96,ENSG00000187479,Gene Expression
+Pericyte,FRZB,ENSG00000162998,Gene Expression
+Pericyte,LAMA4,ENSG00000112769,Gene Expression
+Pericyte,TPM1,ENSG00000140416,Gene Expression
+Pericyte,IGFBP4,ENSG00000141753,Gene Expression
+Scavenging pericyte,SPARC,ENSG00000113140,Gene Expression
+Scavenging pericyte,FN1,ENSG00000115414,Gene Expression
+Scavenging pericyte,RGS5,ENSG00000143248,Gene Expression
+Scavenging pericyte,COL4A1,ENSG00000187498,Gene Expression
+Scavenging pericyte,COL1A2,ENSG00000164692,Gene Expression
+Scavenging pericyte,IGFBP7,ENSG00000163453,Gene Expression
+Scavenging pericyte,COL3A1,ENSG00000168542,Gene Expression
+Scavenging pericyte,COL1A1,ENSG00000108821,Gene Expression
+Scavenging pericyte,ITGB1,ENSG00000150093,Gene Expression
+Scavenging pericyte,COL4A2,ENSG00000134871,Gene Expression
+Scavenging pericyte,UACA,ENSG00000137831,Gene Expression
+Scavenging pericyte,CALD1,ENSG00000122786,Gene Expression
+Scavenging pericyte,DCN,ENSG00000011465,Gene Expression
+Scavenging pericyte,NID1,ENSG00000116962,Gene Expression
+Scavenging pericyte,FSTL1,ENSG00000163430,Gene Expression
+Scavenging pericyte,MT-ND4,ENSG00000198886,Gene Expression
+Scavenging pericyte,COL5A2,ENSG00000204262,Gene Expression
+Scavenging pericyte,MT-ND1,ENSG00000198888,Gene Expression
+Scavenging pericyte,MCAM,ENSG00000076706,Gene Expression
+Scavenging pericyte,ITGA1,ENSG00000213949,Gene Expression
+Scavenging pericyte,MT-ATP8,ENSG00000228253,Gene Expression
+Scavenging pericyte,MT-CYB,ENSG00000198727,Gene Expression
+Scavenging pericyte,MT-ATP6,ENSG00000198899,Gene Expression
+Scavenging pericyte,LUM,ENSG00000139329,Gene Expression
+Scavenging pericyte,MT-ND3,ENSG00000198840,Gene Expression
+Scavenging pericyte,TPM4,ENSG00000167460,Gene Expression
+Scavenging pericyte,SPARCL1,ENSG00000152583,Gene Expression
+Scavenging pericyte,NOTCH3,ENSG00000074181,Gene Expression
+Scavenging pericyte,THY1,ENSG00000154096,Gene Expression
+Scavenging pericyte,S1PR3,ENSG00000213694,Gene Expression
+Scavenging pericyte,PLXDC1,ENSG00000161381,Gene Expression
+Scavenging pericyte,KLF4,ENSG00000136826,Gene Expression
+Scavenging pericyte,NR2F2,ENSG00000185551,Gene Expression
+Scavenging pericyte,MYH9,ENSG00000100345,Gene Expression
+Scavenging pericyte,EGR1,ENSG00000120738,Gene Expression
+Scavenging pericyte,MYO1B,ENSG00000128641,Gene Expression
+Scavenging pericyte,MMP9,ENSG00000100985,Gene Expression
+Scavenging pericyte,MT-CO2,ENSG00000198712,Gene Expression
+Scavenging pericyte,JUND,ENSG00000130522,Gene Expression
+Scavenging pericyte,EDNRA,ENSG00000151617,Gene Expression
+Scavenging pericyte,LAMC1,ENSG00000135862,Gene Expression
+Scavenging pericyte,MT-CO1,ENSG00000198804,Gene Expression
+Scavenging pericyte,COL6A1,ENSG00000142156,Gene Expression
+Scavenging pericyte,LAMA4,ENSG00000112769,Gene Expression
+Scavenging pericyte,MGP,ENSG00000111341,Gene Expression
+Scavenging pericyte,FOS,ENSG00000170345,Gene Expression
+Scavenging pericyte,SERPINH1,ENSG00000149257,Gene Expression
+Scavenging pericyte,APP,ENSG00000142192,Gene Expression
+Scavenging pericyte,FILIP1L,ENSG00000168386,Gene Expression
+Scavenging pericyte,ATP1A2,ENSG00000018625,Gene Expression
+Perivascular fibroblast,APOD,ENSG00000189058,Gene Expression
+Perivascular fibroblast,DCN,ENSG00000011465,Gene Expression
+Perivascular fibroblast,COL1A1,ENSG00000108821,Gene Expression
+Perivascular fibroblast,COL1A2,ENSG00000164692,Gene Expression
+Perivascular fibroblast,COL3A1,ENSG00000168542,Gene Expression
+Perivascular fibroblast,MGP,ENSG00000111341,Gene Expression
+Perivascular fibroblast,FBLN1,ENSG00000077942,Gene Expression
+Perivascular fibroblast,PTGDS,ENSG00000107317,Gene Expression
+Perivascular fibroblast,C1S,ENSG00000182326,Gene Expression
+Perivascular fibroblast,IGFBP7,ENSG00000163453,Gene Expression
+Perivascular fibroblast,CYP1B1,ENSG00000138061,Gene Expression
+Perivascular fibroblast,FN1,ENSG00000115414,Gene Expression
+Perivascular fibroblast,TIMP1,ENSG00000102265,Gene Expression
+Perivascular fibroblast,LUM,ENSG00000139329,Gene Expression
+Perivascular fibroblast,IFITM1,ENSG00000185885,Gene Expression
+Perivascular fibroblast,C1R,ENSG00000159403,Gene Expression
+Perivascular fibroblast,CCN2,ENSG00000118523,Gene Expression
+Perivascular fibroblast,ISLR,ENSG00000129009,Gene Expression
+Perivascular fibroblast,C7,ENSG00000112936,Gene Expression
+Perivascular fibroblast,TPM1,ENSG00000140416,Gene Expression
+Perivascular fibroblast,IFITM3,ENSG00000142089,Gene Expression
+Perivascular fibroblast,CEMIP,ENSG00000103888,Gene Expression
+Perivascular fibroblast,SERPING1,ENSG00000149131,Gene Expression
+Perivascular fibroblast,SFRP4,ENSG00000106483,Gene Expression
+Perivascular fibroblast,COL6A3,ENSG00000163359,Gene Expression
+Perivascular fibroblast,SPARC,ENSG00000113140,Gene Expression
+Perivascular fibroblast,COL6A2,ENSG00000142173,Gene Expression
+Perivascular fibroblast,CFH,ENSG00000000971,Gene Expression
+Perivascular fibroblast,PCOLCE,ENSG00000106333,Gene Expression
+Perivascular fibroblast,CXCL12,ENSG00000107562,Gene Expression
+Perivascular fibroblast,IGFBP4,ENSG00000141753,Gene Expression
+Perivascular fibroblast,FSTL1,ENSG00000163430,Gene Expression
+Perivascular fibroblast,TIMP3,ENSG00000100234,Gene Expression
+Perivascular fibroblast,IGFBP6,ENSG00000167779,Gene Expression
+Perivascular fibroblast,FRZB,ENSG00000162998,Gene Expression
+Perivascular fibroblast,COL6A1,ENSG00000142156,Gene Expression
+Perivascular fibroblast,ANXA2,ENSG00000182718,Gene Expression
+Perivascular fibroblast,CCN1,ENSG00000142871,Gene Expression
+Perivascular fibroblast,OLFML3,ENSG00000116774,Gene Expression
+Perivascular fibroblast,FBLN2,ENSG00000163520,Gene Expression
+Perivascular fibroblast,COLEC12,ENSG00000158270,Gene Expression
+Perivascular fibroblast,RBP1,ENSG00000114115,Gene Expression
+Perivascular fibroblast,THBS1,ENSG00000137801,Gene Expression
+Perivascular fibroblast,PDLIM1,ENSG00000107438,Gene Expression
+Perivascular fibroblast,BGN,ENSG00000182492,Gene Expression
+Perivascular fibroblast,TAGLN,ENSG00000149591,Gene Expression
+Perivascular fibroblast,MMP2,ENSG00000087245,Gene Expression
+Perivascular fibroblast,NID1,ENSG00000116962,Gene Expression
+Perivascular fibroblast,CLDN11,ENSG00000013297,Gene Expression
+Perivascular fibroblast,LHFPL6,ENSG00000183722,Gene Expression
+VLMC,SLN,ENSG00000170290,Gene Expression
+VLMC,CLU,ENSG00000120885,Gene Expression
+VLMC,SFRP4,ENSG00000106483,Gene Expression
+VLMC,MDK,ENSG00000110492,Gene Expression
+VLMC,PTGDS,ENSG00000107317,Gene Expression
+VLMC,FRZB,ENSG00000162998,Gene Expression
+VLMC,IGFBP7,ENSG00000163453,Gene Expression
+VLMC,SPARC,ENSG00000113140,Gene Expression
+VLMC,PSAP,ENSG00000197746,Gene Expression
+VLMC,GPNMB,ENSG00000136235,Gene Expression
+VLMC,IGFBP6,ENSG00000167779,Gene Expression
+VLMC,CPE,ENSG00000109472,Gene Expression
+VLMC,FN1,ENSG00000115414,Gene Expression
+VLMC,MAP1A,ENSG00000166963,Gene Expression
+VLMC,BGN,ENSG00000182492,Gene Expression
+VLMC,RAMP2,ENSG00000131477,Gene Expression
+VLMC,NDUFA4L2,ENSG00000185633,Gene Expression
+VLMC,NUPR1,ENSG00000176046,Gene Expression
+VLMC,THY1,ENSG00000154096,Gene Expression
+VLMC,CALD1,ENSG00000122786,Gene Expression
+VLMC,SQSTM1,ENSG00000161011,Gene Expression
+VLMC,CHGB,ENSG00000089199,Gene Expression
+VLMC,OCIAD2,ENSG00000145247,Gene Expression
+VLMC,GSN,ENSG00000148180,Gene Expression
+VLMC,DCN,ENSG00000011465,Gene Expression
+VLMC,SELENOP,ENSG00000250722,Gene Expression
+VLMC,CTSK,ENSG00000143387,Gene Expression
+VLMC,MYL9,ENSG00000101335,Gene Expression
+VLMC,COL4A1,ENSG00000187498,Gene Expression
+VLMC,CTSH,ENSG00000103811,Gene Expression
+VLMC,RASD1,ENSG00000108551,Gene Expression
+VLMC,CCK,ENSG00000187094,Gene Expression
+VLMC,MIR4435-2HG,ENSG00000172965,Gene Expression
+VLMC,HIGD1B,ENSG00000131097,Gene Expression
+VLMC,COL1A2,ENSG00000164692,Gene Expression
+VLMC,APP,ENSG00000142192,Gene Expression
+VLMC,CSRP2,ENSG00000175183,Gene Expression
+VLMC,ANXA1,ENSG00000135046,Gene Expression
+VLMC,PLAAT3,ENSG00000176485,Gene Expression
+VLMC,CYSTM1,ENSG00000120306,Gene Expression
+VLMC,COL4A2,ENSG00000134871,Gene Expression
+VLMC,LGALS1,ENSG00000100097,Gene Expression
+VLMC,IFITM3,ENSG00000142089,Gene Expression
+VLMC,TIMP1,ENSG00000102265,Gene Expression
+VLMC,CRYAB,ENSG00000109846,Gene Expression
+VLMC,MGST1,ENSG00000008394,Gene Expression
+VLMC,DKK3,ENSG00000050165,Gene Expression
+VLMC,GPM6B,ENSG00000046653,Gene Expression
+VLMC,RND2,ENSG00000108830,Gene Expression
+VLMC,RBP1,ENSG00000114115,Gene Expression
